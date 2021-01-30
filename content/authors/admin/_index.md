@@ -8,6 +8,8 @@ interests:
   - Political Economy
   - Causal inference
   - Qualitative fieldwork
+  - Latin America
+  - Latin Europe
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,7 +22,7 @@ social:
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/guillermotoral
+    link: https://www.linkedin.com/in/guillermotoral/
   - display:
       header: false
     link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
