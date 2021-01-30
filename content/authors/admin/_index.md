@@ -1,77 +1,52 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+title: Guillermo Toral
+role: Assistant Professor of Political Science
+avatar_filename: avatar.jpg
+bio: ""
+interests: []
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/guillermo_toral
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/guillermotoral
+  - display:
+      header: false
+    link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
+    icon_pack: ai
+    icon: publons
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-9565-3175
+    icon_pack: ai
+    icon: orcid
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - name: Vanderbilt University
+    url: https://www.vanderbilt.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Political Science
+      institution: Massachusetts Institute of Technology
+      year: 2020
+    - course: MPhil in Comparative Government
+      institution: University of Oxford
+      year: 2011
+    - course: Lic. in Political Science and Public Administration
+      institution: Universidad Complutense de Madrid
+      year: 2009
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+I am an Assistant Professor of [Political Science](https://www.vanderbilt.edu/political-science/) at [Vanderbilt University](https://www.vanderbilt.edu/), and a Research Affiliate at [MIT GOV/LAB](https://mitgovlab.org/). I work in the fields of comparative politics and political economy, with a regional focus on Latin America and a substantive focus on issues of development, governance, and corruption.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I study relationships among state actors (politicians, bureaucrats, and anti-corruption agents) and how they shape public service delivery and human development. In my work, I use big administrative datasets, surveys, and extensive qualitative fieldwork to shed light on dynamics of government accountability. I am writing a book on *The political logics of patronage*, distinguishing the strategic uses that local politicians in Brazil make of public employment, and the divergent implications that those strategies have for government accountability and for the quality of public services like education and healthcare. Some of my other research explores the effectiveness of anti-corruption policies and agencies, the role of information in within-government and electoral accountability, and the causes and consequences of the enfranchisement of immigrants.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research has been supported by the [Lemann Foundation](https://fundacaolemann.org.br/), [MIT GOV/LAB](https://mitgovlab.org/), the [Center for International Studies](http://cis.mit.edu/), the [MIT International Science and Technology Initiatives](http://misti.mit.edu/), and the [Program on Governance and Local Development](http://gld.gu.se/) at the University of Gothenburg.
