@@ -3,7 +3,11 @@ title: Guillermo Toral
 role: Assistant Professor of Political Science
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Comparative Politics
+  - Political Economy
+  - Causal inference
+  - Qualitative fieldwork
 social:
   - icon: envelope
     icon_pack: fas
