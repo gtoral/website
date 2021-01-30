@@ -15,7 +15,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/guillermo_toral
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
   - icon: linkedin
