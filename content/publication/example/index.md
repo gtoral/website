@@ -7,7 +7,7 @@ authors:
   - Taylor Boas
   - F. Daniel Hidalgo
   - admin
-publication_short: JOP
+publication_short: ""
 abstract: Do voters reward politicians for the quality of public services? We
   address this question by studying voters' responses to signals of municipal
   school quality in Brazil, a setting particularly favorable to electoral
@@ -40,9 +40,9 @@ author_notes: []
 doi: ""
 publication: Journal of Politics
 projects: []
-date: 2013-07-01T00:00:00Z
+date: 2020-08-26T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
