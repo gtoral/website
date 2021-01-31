@@ -6,7 +6,7 @@ weight: 90
 title: Publications
 subtitle: ""
 content:
-  page_type: research
+  page_type: publication
   count: 5
   offset: 0
   order: desc
@@ -21,5 +21,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering research](./publications/).
+Quickly discover relevant content by [filtering research](./publication/).
 {{% /callout %}}
