@@ -1,7 +1,7 @@
 ---
 title: "Turnover: How electoral accountability disrupts the bureaucracy and service delivery"
 publication_types:
-  - "4"
+  - "3"
 authors:
   - admin
 publication_short: ""
