@@ -9,7 +9,7 @@ authors:
   - admin
   - Noah Yarrow
   - Soledad de Gregorio
-publication_short: "Chapter 4 in *Better teachers for Latin America and the Caribbean: New Evidence on Strategies for Teacher Quality and Student Learning*. Washington DC: World Bank."
+publication_short: "Chapter 4 in *Better teachers for Latin America and the Caribbean: New Evidence on Strategies for Teacher Quality and Student Learning*. Washington DC: World Bank"
 abstract: The seven million teachers of Latin America and the Caribbean (LAC) are the critical actors in the region's efforts to improve education quality and raise student learning levels, which lag far behind those of OECD countries and East Asian countries such as China. This book documents the high economic stakes around teacher quality, benchmarks the current performance of LAC's teachers, and delineates the key issues. These include low standards for entry into teacher training, poor quality training programs that are detached from the realities of the classroom, unattractive career incentives, and weak support for teachers once they are on the job.
 draft: false
 featured: false
