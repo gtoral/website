@@ -50,7 +50,7 @@ education:
       year: 2009
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 I am an Assistant Professor of [Political Science](https://www.vanderbilt.edu/political-science/) at [Vanderbilt University](https://www.vanderbilt.edu/), and a Research Affiliate at [MIT GOV/LAB](https://mitgovlab.org/). I work in the fields of comparative politics and political economy, with a regional focus on Latin America and a substantive focus on issues of development, governance, and corruption.
 
