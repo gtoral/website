@@ -11,11 +11,11 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-**Vanderbilt University**
+**[Vanderbilt University](http://www.vanderbilt.edu)**
 
-* [Politics of Bureaucracies](gtoral.netlify.app/media/bureaucracies_syllabus.pdf) (graduate). Spring 2021.
-* [](gtoral.netlify.app/media/bureaucracies_syllabus.pdf)[Political Economy of Development](gtoral.netlify.app/media/development_syllabus.pdf) (undergraduate). Spring 2021.
-* [Political Economy of Corruption](gtoral.netlify.app/media/corruption_syllabus.pdf) (undergraduate). Fall 2020. Teaching evaluations: 4.88 out of 5.
+* [Politics of Bureaucracies](media/bureaucracies_syllabus.pdf) (graduate). Spring 2021.
+*[Political Economy of Development]((media/bureaucracies_syllabus.pdf) (undergraduate). Spring 2021.
+* [Political Economy of Corruption](media/corruption_syllabus.pdf) (undergraduate). Fall 2020. Teaching evaluations: 4.88 out of 5.
 
 **Massachusetts Institute of Technology**
 
