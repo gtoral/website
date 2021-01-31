@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Publications
+widget_id: Reports
 headless: true
 weight: 40
 title: Policy reports
