@@ -3,7 +3,7 @@ widget: pages
 widget_id: Publications
 headless: true
 weight: 20
-title: Publications
+title: Peer-reviewed chapters in books
 subtitle: ""
 content:
   page_type: publication
@@ -13,13 +13,10 @@ content:
   filters:
     tag: ""
     category: ""
-    publication_type: "2"
+    publication_type: "6"
     author: ""
     exclude_featured: true
 design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering research](./publication/).
-{{% /callout %}}
