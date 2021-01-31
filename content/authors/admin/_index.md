@@ -9,10 +9,7 @@ interests:
   - Causal inference
   - Qualitative fieldwork
   - Latin America & Europe
-social:
- - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/guillermo_toral/   
+social:  
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/guillermotoral/
