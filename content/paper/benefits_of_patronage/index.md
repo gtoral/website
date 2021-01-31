@@ -1,7 +1,7 @@
 ---
 title: "The benefits of patronage: How political appointments can enhance bureaucratic accountability and effectiveness"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
 publication_short: ""
@@ -22,7 +22,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "Under review"
+publication: "Working paper"
 projects: []
 publishDate: 2020-08-30T23:54:00.000Z
 url_slides: ""
