@@ -11,6 +11,7 @@ abstract: A vast literature has studied political cycles in economic outcomes an
 draft: false
 featured: false
 tags: []
+url_pdf: ""
 slides: ""
 image:
   caption: ""
@@ -18,7 +19,6 @@ image:
   preview_only: false
 summary: ""
 links:
-url_pdf: bureaucratic_cycles.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -26,7 +26,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 author_notes: []
 doi: ""
 publication: ""
