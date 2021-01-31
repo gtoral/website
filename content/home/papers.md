@@ -6,7 +6,7 @@ weight: 100
 title: Papers
 subtitle: ""
 content:
-  page_type: paper
+  page_type: publication
   count: 5
   offset: 0
   order: desc
@@ -20,6 +20,3 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering papers](./paper/).
-{{% /callout %}}
