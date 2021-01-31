@@ -7,7 +7,7 @@
   name = "Home"
   url = "#about"
   weight = 10
-  
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
@@ -16,18 +16,18 @@
     weight = 20
 
 [[main]]
-  name = "Book project"
-  url = "#bookproject"
-  weight = 30
-
-[[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Papers"
   url = "#papers"
+  weight = 40
+
+[[main]]
+  name = "Book project"
+  url = "#book-project"
   weight = 50
 
 [[main]]
