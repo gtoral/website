@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Publications
 headless: true
-weight: 23
+weight: 30
 title: Peer-reviewed chapters in books
 subtitle: ""
 content:
