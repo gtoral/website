@@ -42,7 +42,6 @@ publication: "Forthcoming in *Journal of Politics*"
 projects: []
 date: 2020
 url_slides: ""
-publishDate: 2020
 url_poster: ""
 url_code: ""
 ---
