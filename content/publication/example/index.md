@@ -38,7 +38,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: Journal of Politics
+publication: "*Journal of Politics*"
 projects: []
 date: 2020-08-26T00:00:00.000Z
 url_slides: ""
