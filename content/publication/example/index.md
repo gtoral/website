@@ -38,12 +38,11 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: "*Journal of Politics*"
+publication: "Forthcoming in *Journal of Politics*"
 projects: []
-date: 2020-08-26T00:00:00.000Z
+date: 2020
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020
 url_poster: ""
 url_code: ""
 ---
-Forthcoming.
