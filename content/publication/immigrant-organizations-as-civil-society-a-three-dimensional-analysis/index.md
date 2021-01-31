@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - ""
-publication: Revista Española de Investigaciones Sociológicas
+publication: "*Revista Española de Investigaciones Sociológicas*"
 abstract: "This article examines immigrant organizations from three
   perspectives: their relationships with public authorities, the system of
   relationships established among these organizations, and their degree of
