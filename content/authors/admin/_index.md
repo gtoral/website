@@ -18,18 +18,12 @@ social:
     link: https://gtoral.netlify.app/media/cv.pdf
     icon_pack: ai
     icon: cv  
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guillermotoral/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/guillermo_toral
-  - display:
+ - display:
       header: false
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
-   - display:
+- display:
       header: false
     link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
     icon_pack: ai
@@ -38,7 +32,13 @@ social:
       header: false
     link: https://orcid.org/0000-0001-9565-3175
     icon_pack: ai
-    icon: orcid
+    icon: orcid    
+ - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/guillermo_toral   
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/guillermotoral/
 organizations:
   - name: Vanderbilt University
     url: https://www.vanderbilt.edu/
