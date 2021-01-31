@@ -13,11 +13,6 @@ social:
   - icon: envelope
     icon_pack: far
     link: mailto:guillermo.toral@vanderbilt.edu
- - display:
-      header: false
-    link: https://gtoral.netlify.app/media/cv.pdf
-    icon_pack: ai
-    icon: cv
   - display:
       header: false
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
