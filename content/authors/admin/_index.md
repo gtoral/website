@@ -18,18 +18,18 @@ social:
     link: https://gtoral.netlify.app/media/cv.pdf
     icon_pack: ai
     icon: cv  
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/guillermotoral/
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/guillermo_toral
   - display:
       header: false
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/guillermo_toral
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guillermotoral/
-  - display:
+   - display:
       header: false
     link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
     icon_pack: ai
