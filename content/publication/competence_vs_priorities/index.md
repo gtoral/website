@@ -40,7 +40,7 @@ author_notes: []
 doi: ""
 publication: "Forthcoming in *Journal of Politics*"
 projects: []
-publishDate: 2020
+publishDate: 2020-08-30T23:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
