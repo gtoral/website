@@ -1,12 +1,12 @@
 ---
 widget: pages
-widget_id: Papers
+widget_id: Publications
 headless: true
-weight: 100
+weight: 90
 title: Papers
 subtitle: ""
 content:
-  page_type: paper
+  page_type: publication
   count: 5
   offset: 0
   order: desc
@@ -19,4 +19,3 @@ content:
 design:
   view: 4
 ---
-
