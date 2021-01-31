@@ -30,13 +30,13 @@ links:
 - name: Appendix
   url: competence_vs_priorities_appendix.pdf
 url_pdf: competence_vs_priorities.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 image:
   caption: ""
@@ -48,8 +48,5 @@ author_notes: []
 doi: ""
 publication: "Forthcoming in *Journal of Politics*"
 projects: []
-date: 2020-08-30T23:54:00.000Z
-url_slides: ""
-url_poster: ""
-url_code: ""
+date: 2020-08-21T23:54:00.000Z
 ---
