@@ -29,7 +29,7 @@ abstract: "This article examines immigrant organizations from three
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: reis.pdf
   focal_point: Smart
   preview_only: false
 date: 2010-01-30T23:54:00.000Z
