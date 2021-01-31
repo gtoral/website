@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Papers
+widget_id: Publications
 headless: true
 weight: 100
 title: Papers
