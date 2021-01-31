@@ -28,7 +28,7 @@ design:
 **[Universidade Federal do Rio Grande do Norte](http://www.ufrn.br)** (Natal, Brazil)
 * [Experimental and Quasi-experimental Evaluation of Public Policy](media/ufrn_agenda.pdf) (June 2019, in Portuguese). Teaching evaluation by students: 9.5 out of 10. 
 
-**[USP-IPSA Summer School in Methods in Political Science, Public Policy and International Relations](http://www.ufrn.br)** (Sao Paulo, Brazil)
+**[USP-IPSA Summer School in Methods in Political Science, Public Policy and International Relations](http://summerschool.fflch.usp.br/)** (Sao Paulo, Brazil)
 * [Advanced Issues in Quantitative Methods for Public Policy Analysis](media/policy_analysis_syllabus.pdf) (January 2019). Teaching assistant for [Bruno Cautres](https://www.sciencespo.fr/cevipof/en/researcher/bruno-cautres.html).
 
 **[Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/)** (Cambridge, MA)
