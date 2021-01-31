@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Book project
 headless: true
-weight: 50
+weight: 40
 title: Book project
 active: true
 design:
