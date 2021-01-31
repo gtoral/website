@@ -8,8 +8,7 @@ interests:
   - Political Economy
   - Causal inference
   - Qualitative fieldwork
-  - Latin America
-  - Latin Europe
+  - Latin America & Europe
 social:
   - icon: envelope
     icon_pack: fas
