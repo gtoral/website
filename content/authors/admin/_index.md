@@ -15,6 +15,11 @@ social:
     link: mailto:guillermo.toral@vanderbilt.edu
   - display:
       header: false
+    link: https://orcid.org/0000-0001-9565-3175
+    icon_pack: ai
+    icon: cv  
+  - display:
+      header: false
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en
     icon_pack: ai
     icon: google-scholar
