@@ -10,6 +10,15 @@ interests:
   - Qualitative fieldwork
   - Latin America & Europe
 social:
+  - icon: cv
+    icon_pack: ai
+    link: https://gtoral.netlify.app/media/cv.pdf
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
+  - icon: publons
+    icon_pack: ai
+    link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/guillermotoral/
