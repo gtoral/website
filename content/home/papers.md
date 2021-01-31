@@ -2,11 +2,11 @@
 widget: pages
 widget_id: Papers
 headless: true
-weight: 90
+weight: 100
 title: Papers
 subtitle: ""
 content:
-  page_type: publication
+  page_type: paper
   count: 5
   offset: 0
   order: desc
