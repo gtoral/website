@@ -15,7 +15,7 @@ social:
     link: mailto:guillermo.toral@vanderbilt.edu
   - display:
       header: false
-    link: https://orcid.org/0000-0001-9565-3175
+    link: https://gtoral.netlify.app/media/cv.pdf
     icon_pack: ai
     icon: cv  
   - display:
