@@ -21,5 +21,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering research](./research/).
+Quickly discover relevant content by [filtering research](./publications/).
 {{% /callout %}}
