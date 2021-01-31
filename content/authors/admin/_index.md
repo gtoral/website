@@ -10,12 +10,9 @@ interests:
   - Qualitative fieldwork
   - Latin America & Europe
 social:
-  - icon: envelope
-    icon_pack: far
-    link: mailto:guillermo.toral@vanderbilt.edu
  - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/guillermo_toral/   
+    link: https://twitter.com/guillermo_toral   
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/guillermotoral/
