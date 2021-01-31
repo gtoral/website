@@ -1,7 +1,7 @@
 ---
 title: "Franchise reforms in the age of migration: Why do governments enfranchise noncitizens?"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
 publication_short: ""
