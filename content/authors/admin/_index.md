@@ -13,33 +13,7 @@ social:
   - icon: envelope
     icon_pack: far
     link: mailto:guillermo.toral@vanderbilt.edu
-  - display:
-      header: false
-    link: https://gtoral.netlify.app/media/cv.pdf
-    icon_pack: ai
-    icon: cv  
- - display:
-      header: false
-    link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
-    icon_pack: ai
-    icon: google-scholar
- - display:
-      header: false
-    link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
-    icon_pack: ai
-    icon: publons
-  - display:
-      header: false
-    link: https://orcid.org/0000-0001-9565-3175/
-    icon_pack: ai
-    icon: orcid    
- - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/guillermo_toral/   
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/guillermotoral/
-organizations:
+ organizations:
   - name: Vanderbilt University
     url: https://www.vanderbilt.edu/
 education:
