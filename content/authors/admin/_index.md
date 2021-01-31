@@ -11,7 +11,7 @@ interests:
   - Latin America & Europe
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: far
     link: /#contact
   - icon: twitter
     icon_pack: fab
