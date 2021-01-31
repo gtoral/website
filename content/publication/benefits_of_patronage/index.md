@@ -1,6 +1,6 @@
 ---
 title: "The benefits of patronage: How the political appointment of bureaucrats can enhance their accountability and effectiveness"
-subtitle: (in Spanish)
+subtitle: 
 publication_types:
   - "3"
 authors:
