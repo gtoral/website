@@ -18,7 +18,7 @@ image:
   preview_only: false
 summary: ""
 links:
-url_pdf: political_bureaucratic_cycles.pdf
+url_pdf: bureaucratic_cycles.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -31,7 +31,7 @@ author_notes: []
 doi: ""
 publication: ""
 projects: []
-date: 2019-10-04T23:54:00.000Z
+date: 2019-10-05T23:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
