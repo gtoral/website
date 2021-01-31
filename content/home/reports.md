@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Publications
 headless: true
-weight: 20
+weight: 27
 title: Policy reports
 subtitle: ""
 content:
