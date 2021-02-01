@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - ""
-publication: "*Revista Española de Investigaciones Sociológicas*"
+publication: "*Revista Española de Investigaciones Sociológicas* 132:105-130"
 abstract: "This article examines immigrant organizations from three
   perspectives: their relationships with public authorities, the system of
   relationships established among these organizations, and their degree of
@@ -28,6 +28,10 @@ abstract: "This article examines immigrant organizations from three
   question the role of the State in supporting immigrant organizations"
 draft: false
 featured: false
+links:
+- name: Journal
+  url: http://www.reis.cis.es/REIS/jsp/REIS.jsp?opcion=articulo&ktitulo=2235&autor=GUILLERMO+TORAL&lang=en
+url_pdf: reis.pdf
 image:
   filename: 
   focal_point: Smart
