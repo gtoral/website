@@ -26,10 +26,10 @@ design:
 * [LaTeX workshop](media/latex_slides.pdf). September 2017. Co-instructor with [Weihuang Wong](https://weihuangwong.github.io/).
 
 **[Universidade Federal do Rio Grande do Norte](http://www.ufrn.br)** (Natal, Brazil)
-* [Experimental and Quasi-experimental Evaluation of Public Policy](media/ufrn_agenda.pdf) (June 2019, in Portuguese). Teaching evaluation by students: 9.5 out of 10. 
+* [Experimental and Quasi-experimental Evaluation of Public Policy](media/ufrn_agenda.pdf) (in Portuguese). June 2019. Teaching evaluation by students: 9.5 out of 10. 
 
 **[USP-IPSA Summer School in Methods in Political Science, Public Policy and International Relations](http://summerschool.fflch.usp.br/)** (Sao Paulo, Brazil)
-* [Advanced Issues in Quantitative Methods for Public Policy Analysis](media/policy_analysis_syllabus.pdf) (January 2019). Teaching Assistant for [Bruno Cautres](https://www.sciencespo.fr/cevipof/en/researcher/bruno-cautres.html).
+* [Advanced Issues in Quantitative Methods for Public Policy Analysis](media/policy_analysis_syllabus.pdf). January 2019. Teaching Assistant for [Bruno Cautres](https://www.sciencespo.fr/cevipof/en/researcher/bruno-cautres.html).
 
 **[Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/)** (Cambridge, MA)
-* [Evaluation of Social Programs](media/jpal_agenda.pdf) (June 2017). Teaching Assistant for J-PAL's flagship executive education course.
+* [Evaluation of Social Programs](media/jpal_agenda.pdf). June 2017. Teaching Assistant for J-PAL's flagship executive education course.
