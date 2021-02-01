@@ -29,9 +29,9 @@ tags: []
 links:
 - name: Appendix
   url: competence_vs_priorities_appendix.pdf
-- name: Field experiment pre-analysis plan
+- name: Pre-analysis plan A
   url: https://osf.io/s7bfe
-- name: Survey experiment pre-analysis plan  
+- name: Pre-analysis plan B  
   url: https://osf.io/8n7yb/
 url_pdf: competence_vs_priorities.pdf
 url_code: ''
