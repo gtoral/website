@@ -54,3 +54,4 @@ publication: "Forthcoming in *Journal of Politics*"
 projects: []
 date: 2020-08-21T23:54:00.000Z
 ---
+Presented at the 2017 Southeast Latin American Political Behavior Conference (SeLAB, Georgia State University)
