@@ -3,7 +3,7 @@ widget: pages
 widget_id: Chapters
 headless: true
 weight: 30
-title: Peer-reviewed chapters in books
+title: Chapters in books
 subtitle: ""
 content:
   page_type: publication
