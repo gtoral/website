@@ -6,7 +6,7 @@ weight: 30
 title: Peer-reviewed chapters in books
 subtitle: ""
 content:
-  page_type: publication
+  page_type: research
   count: 5
   offset: 0
   order: desc

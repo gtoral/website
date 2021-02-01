@@ -6,7 +6,7 @@ weight: 50
 title: Papers
 subtitle: ""
 content:
-  page_type: publication
+  page_type: research
   count: 10
   offset: 0
   order: desc
