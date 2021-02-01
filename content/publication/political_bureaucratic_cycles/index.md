@@ -35,4 +35,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-Presented at the 2019 American Political Science Association Annual Meeting (APSA, Washington DC), the 2019 Red para la Economía Política de América Latina Annual Meeting (REPAL, New Orleans), and the 2018 Latin American Studies Association Congress (LASA, Barcelona)
+Presented at the 2019 American Political Science Association Annual Meeting (APSA, Washington DC), the 2019 Red para la EconomÃ­a PolÃ­tica de AmÃ©rica Latina Annual Meeting (REPAL, New Orleans), and the 2018 Latin American Studies Association Congress (LASA, Barcelona)
