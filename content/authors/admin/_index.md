@@ -1,7 +1,7 @@
 ---
 title: Guillermo Toral
 role: Assistant Professor of Political Science
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 interests:
   - Comparative Politics
