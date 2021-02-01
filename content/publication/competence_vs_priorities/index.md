@@ -32,7 +32,7 @@ links:
 - name: Pre-analysis plan A
   url: https://osf.io/s7bfe
 - name: Pre-analysis plan B  
-  url: https://osf.io/8n7yb/
+  url: https://osf.io/gqmd4
 url_pdf: competence_vs_priorities.pdf
 url_code: ''
 url_dataset: ''
