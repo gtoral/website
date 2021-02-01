@@ -6,7 +6,7 @@ weight: 20
 title: Peer-reviewed articles
 subtitle: ""
 content:
-  page_type: research
+  page_type: publication
   count: 5
   offset: 0
   order: desc

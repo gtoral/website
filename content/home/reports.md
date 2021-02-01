@@ -6,7 +6,7 @@ weight: 40
 title: Policy reports
 subtitle: ""
 content:
-  page_type: research
+  page_type: publication
   count: 5
   offset: 0
   order: desc
