@@ -16,15 +16,15 @@ links:
 - name: Media coverage: MIT News
   url: https://news.mit.edu/2021/improving-public-services-brazil-guillermo-toral-0120
 url_pdf: turnover.pdf
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 summary: ""
-url_dataset: ""
-url_project: ""
-url_source: ""
-url_video: ""
 author_notes: []
 doi: ""
 publication: "Under review"
