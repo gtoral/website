@@ -21,7 +21,7 @@ social:
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/0000-0001-9565-3175/
+    link: https://orcid.org/0000-0001-9565-3175
   - icon: publons
     icon_pack: ai
     link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
