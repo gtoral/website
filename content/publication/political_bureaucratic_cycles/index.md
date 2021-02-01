@@ -6,7 +6,8 @@ authors:
   - admin
 publication_short: ""
 
-abstract: A vast literature has studied political cycles in economic outcomes and economic policy tools (political business and political budget cycles, respectively). I identify a related phenomenon, which I call political bureaucratic cycles: electoral cycles in the hiring and firing of bureaucrats and in the activities of public employees, which emerge as a result of the combination of electoral incentives and legal rules imposed to limit the use of public employment for electioneering. Empirically, I leverage administrative, identified, contract-level data on the universe of municipal employees in Brazil between 2002 and 2016 to measure political bureaucratic cycles. 
+abstract: A vast literature has studied political cycles in economic outcomes and economic policy tools (political business and political budget cycles, respectively). I identify a related phenomenon - electoral cycles in the hiring and firing of bureaucrats and in the activities of public employees, which emerge as a result of the combination of electoral incentives and legal rules imposed to limit the use of public employment for electioneering. Empirically, I leverage administrative, identified, contract-level data on the universe of municipal employees in Brazil between 2002 and 2016 to measure political bureaucratic cycles. 
+
 draft: false
 featured: false
 tags: []
