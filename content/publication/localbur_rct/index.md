@@ -38,3 +38,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
+Presented at the Federal University of Rio Grande do Norte (Natal, Brazil, 2019), the State Audit Court of Rio Grande do Norte (Natal, Brazil, 2019), the 2019 Latin American Studies Association Congress (LASA, Boston), and the 2019 Midwest Political Science Association Annual Meeting (MPSA, Chicago)
