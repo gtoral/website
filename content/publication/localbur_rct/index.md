@@ -31,7 +31,7 @@ url_video: ''
 
 author_notes: []
 doi: ""
-publication: ""
+publication: "Working paper"
 projects: []
 date: 2019-08-04T23:54:00.000Z
 url_slides: ""

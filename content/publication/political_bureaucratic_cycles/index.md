@@ -28,7 +28,7 @@ url_source: ''
 url_video: ''
 author_notes: []
 doi: ""
-publication: ""
+publication: "Working paper"
 projects: []
 date: 2019-10-05T23:54:00.000Z
 url_slides: ""
