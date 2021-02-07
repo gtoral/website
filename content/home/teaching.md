@@ -31,4 +31,4 @@ design:
 * [Advanced Issues in Quantitative Methods for Public Policy Analysis](syllabi/policy_analysis_syllabus.pdf). January 2019. Teaching Assistant for [Bruno Cautres](https://www.sciencespo.fr/cevipof/en/researcher/bruno-cautres.html).
 
 **[Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/)** (Cambridge, MA)
-* [Evaluation of Social Programs](syllabi/jpal_agenda.pdf). June 2017. Teaching Assistant for J-PAL's flagship executive education course.
+* [Evaluation of Social Programs](syllabi/jpal_agenda.pdf). June 2017. Teaching Assistant for J-PAL's [flagship executive education course](https://www.povertyactionlab.org/page/evaluating-social-programs).
