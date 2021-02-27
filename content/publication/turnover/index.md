@@ -6,7 +6,7 @@ authors:
   - admin
 publication_short: ""
 
-abstract: Electoral accountability is fundamental to representative democracy. Yet, it can also be costly for governance because it causes turnover among bureaucrats (not just elected officials) and disruptions in the delivery of public services. This article advances a theory of political turnover as a process that, starting the moment election results are published, leads to bureaucratic shuffles and depresses service delivery. I demonstrate these turnover dynamics through a close-races regression discontinuity design, using administrative data on public employment and on healthcare service delivery in Brazilian municipalities. The results show that an electoral defeat of the incumbent causes increases in dismissals, hires, and resignations of bureaucrats, and declines in public service delivery in the months following the election. These findings draw attention to the political strategies of lame-duck politicians, and highlight the intense and consequential bureaucratic politics that follow elections.
+abstract: Electoral accountability is fundamental to representative democracy. Yet, it can also be costly for governance because it causes turnover among bureaucrats (not just politicians) and disruptions in the delivery of public services. Most research on the connections between political and bureaucratic turnover emphasizes how incoming governments reshape the bureaucracy. This article argues that election losers also engage in bureaucratic shuffles before leaving office, and that their actions can depress public service delivery. I demonstrate these turnover dynamics through a close-races regression discontinuity design, using administrative data on the universe of government employees and on healthcare services in Brazilian municipalities. Results show that an electoral defeat of the incumbent causes dismissals of temporaries, hires of civil servants, and declines in healthcare service delivery before the winner takes office. These findings highlight the political strategies of lame-duck politicians and the consequential bureaucratic politics that follow elections.
 
 draft: false
 featured: false
@@ -29,7 +29,7 @@ author_notes: []
 doi: ""
 publication: "Under review"
 projects: []
-date: 2020-12-04T23:54:00.000Z
+date: 2021-02-27T23:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
