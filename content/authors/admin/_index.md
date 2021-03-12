@@ -15,7 +15,7 @@ social:
     link: mailto:guillermo.toral@vanderbilt.edu
   - icon: cv
     icon_pack: ai
-    link: cv.pdf
+    link: http://www.guillermotoral.com/cv.pdf
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
