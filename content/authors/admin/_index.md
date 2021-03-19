@@ -9,6 +9,7 @@ interests:
   - Causal inference
   - Qualitative fieldwork
   - Latin America
+  - Latin Europe
 social:
   - icon: envelope
     icon_pack: far
