@@ -25,7 +25,7 @@ links:
 - name: Media coverage, BBC Brasil
   url: https://www.bbc.com/portuguese/geral-56041389
 - name: Media coverage, Globo G1
-  url: https://g1.globo.com/politica/noticia/2021/02/27/como-as-eleicoes-municipais-afetam-os-servicos-publicos-no-brasil.ghtml  
+  url: https://g1.globo.com
 - name: Media coverage, MIT News
   url: https://news.mit.edu/2021/improving-public-services-brazil-guillermo-toral-0120
 url_pdf: turnover.pdf
