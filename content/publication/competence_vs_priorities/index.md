@@ -27,6 +27,8 @@ featured: false
 tags: []
 
 links:
+- name: Journal
+  url: https://doi.org/10.1086/715064
 - name: Appendix
   url: competence_vs_priorities_appendix.pdf
 - name: Pre-analysis plan A
