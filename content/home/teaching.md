@@ -13,8 +13,8 @@ design:
 ---
 **[Vanderbilt University](http://www.vanderbilt.edu)** (Nashville, TN)
 
-* [Politics of Bureaucracies](syllabi/bureaucracies_syllabus.pdf) (graduate). Spring 2021.
-* [Political Economy of Development](syllabi/development_syllabus.pdf) (undergraduate). Spring 2021.
+* [Political Economy of Development](syllabi/development_syllabus.pdf) (undergraduate). Spring 2021. Teaching evaluation by students: 4.75 out of 5.
+* [Politics of Bureaucracies](syllabi/bureaucracies_syllabus.pdf) (graduate). Spring 2021. Teaching evaluation by students: 4.17 out of 5.
 * [Political Economy of Corruption](syllabi/corruption_syllabus.pdf) (undergraduate). Fall 2020. Teaching evaluation by students: 4.88 out of 5.
 
 **[Massachusetts Institute of Technology](http://www.mit.edu)** (Cambridge, MA)
