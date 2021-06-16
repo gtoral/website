@@ -1,5 +1,5 @@
 ---
-title: "Immigrant organizations as civil society: A three-dimensional analysis"
+title: "Immigrant Organizations as Civil Society: A Three-Dimensional Analysis"
 subtitle: (in Spanish)
 publication_types:
   - "2"

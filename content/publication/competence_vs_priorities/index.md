@@ -1,6 +1,6 @@
 ---
-title: "Competence versus priorities: Negative electoral responses to education
-  quality in Brazil"
+title: "Competence versus Priorities: Negative Electoral Responses to Education
+  Quality in Brazil"
 publication_types:
   - "2"
 authors:
