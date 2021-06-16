@@ -14,7 +14,7 @@ image:
   filename: 
   focal_point: Smart
   preview_only: false
-date: 2021-02-04T10:54:00.000Z
-publication: "Working paper"
+date: 2021-06-11T10:54:00.000Z
+publication: "Under review"
 ---
 Presented at the Quality of Government Institute (Gothenburg, Sweden, 2021), Northwestern University (Evanston, IL, 2021), Instituto Tecnológico Autónomo de México (ITAM, Mexico City, 2020), Harvard Ash Center for Democratic Governance and Innovation (Cambridge, MA, 2020), Rutgers University (Newark, NJ, 2019), Centro de Investigación y Docencia Económicas (CIDE, Mexico City, 2019), Yale-NUS College (Singapore, 2019), Vanderbilt University (Nashville, TN, 2019), New York University Abu Dhabi (NYUAD, 2019), Tecnológico de Monterrey (TEC, Monterrey, Mexico, 2019), the 2019 Northeast Workshop in Empirical Political Science (NEWEPS, New York City), the 2019 Conference of the Society for Political Methodology (PolMeth, Cambridge), the 2018 American Political Science Association Congress (APSA, Boston), and the 2018 MIT Workshop on the Politics of Education (Cambridge, MA)
