@@ -31,11 +31,11 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Under review"
+publication: "Invited to revise and resubmit, *American Political Science Review*"
 projects: []
-date: 2021-03-01T06:00:00.000Z
+date: 2021-06-21T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-Presented at the 2021 Midwest Workshop in Empirical Political Science, the 2020 American Political Science Association Congress (APSA, online), and the 2018 MIT GOV/LAB Political Behavior of Development Conference (Cambridge, MA)
+Presented at the 2021 Midwest Workshop in Empirical Political Science (MWEPS, online), the 2020 American Political Science Association Congress (APSA, online), and the 2018 MIT GOV/LAB Political Behavior of Development Conference (Cambridge, MA)
