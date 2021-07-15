@@ -35,6 +35,8 @@ links:
   url: https://osf.io/s7bfe
 - name: Pre-analysis plan B  
   url: https://osf.io/gqmd4
+- name: Replication data
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YILXB4
 url_pdf: competence_vs_priorities.pdf
 url_code: ''
 url_dataset: ''
