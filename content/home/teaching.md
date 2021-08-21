@@ -32,3 +32,7 @@ design:
 
 **[Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/)** (Cambridge, MA)
 * [Evaluation of Social Programs](syllabi/jpal_agenda.pdf). June 2017. Teaching Assistant for J-PAL's [flagship executive education course](https://www.povertyactionlab.org/page/evaluating-social-programs).
+
+**Guest lectures**
+* Guest lecture in the course Introduction to Comparative Politics (taught by [Noam Lupu](https://www.noamlupu.com/) at Vanderbilt University). November 2020.
+* Guest lecture in the course Corruption: Finding it and Fixing it (taught by [Jeeyang Rhee Baum](https://www.hks.harvard.edu/faculty/jeeyang-rhee-baum) at Harvard University). November 2019.
