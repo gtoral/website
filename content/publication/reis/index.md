@@ -29,7 +29,7 @@ abstract: "This article examines immigrant organizations from three
 draft: false
 featured: false
 links:
-- name: Journal
+- name: Publisher
   url: http://www.reis.cis.es/REIS/jsp/REIS.jsp?opcion=articulo&ktitulo=2235&autor=GUILLERMO+TORAL&lang=en
 url_pdf: reis.pdf
 image:
