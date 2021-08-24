@@ -21,7 +21,7 @@ image:
   preview_only: false
 summary: ""
 links:
-- name: Website
+- name: Publisher
   url: https://www.transparency-initiative.org/blog/3975/what-is-the-evidence-that-efforts-to-promote-international-norms-and-standards-for-transparency-and-accountability-have-an-impact-on-behaviors-of-accountability-actors/
 url_pdf: "tai_internationalstandards_accountability.pdf"
 url_dataset: ""

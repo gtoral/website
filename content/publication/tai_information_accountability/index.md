@@ -21,7 +21,7 @@ image:
   preview_only: false
 summary: ""
 links:
-- name: Website
+- name: Publisher
   url: https://www.transparency-initiative.org/reports/5819/evidence-syntheses-of-within-government-and-citizen-government-accountability-pathways/
 - name: Evidence review tool
   url: https://mitgovlab.org/results/information-and-non-electoral-accountability-evidence-in-context/  
