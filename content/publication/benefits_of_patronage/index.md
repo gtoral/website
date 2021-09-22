@@ -8,18 +8,31 @@ authors:
   - ""
 publication: ""
 abstract: "The political appointment of bureaucrats is typically seen as a rent-seeking strategy that helps politicians sustain clientelistic networks and manipulate public administration to their advantage. I argue that political appointments can also increase bureaucratic accountability and effectiveness because they provide political and social connections between bureaucrats and politicians. These connections grant access to material and non-material resources, enhance monitoring, facilitate the application of sanctions and rewards, align priorities and incentives, and increase mutual trust. In certain conditions, political appointments can thus enhance bureaucrats' accountability and effectiveness in public service delivery. I test this theory using data on Brazilian municipal governments, leveraging two quasi-experiments, two original surveys of bureaucrats and politicians, and in-depth interviews. The findings challenge the traditional view that patronage is universally detrimental to development, and highlight how political appointments and connections can be leveraged to enhance public service delivery."
+
 draft: false
 featured: false
-image:
-  filename: 
-  focal_point: Smart
-  preview_only: false
-  
+tags: []
+slides: ""
 links:
 - name: Best Paper Award, REPAL
-url: http://redeconomiapoliticaamlat.com/awards/
-
-date: 2021-06-11T10:54:00.000Z
+  url: http://redeconomiapoliticaamlat.com/awards/
+url_pdf: benefits_of_patronage.pdf
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+summary: ""
+author_notes: []
+doi: ""
 publication: "Under review"
+projects: []
+date: 2021-06-11T06:00:00.000Z
+url_slides: ""
+url_poster: ""
+url_code: ""
 ---
 Presented at the Red para el Estudio de la Econom&iacute;a Pol&iacute;tica de Am&eacute;rica Latina (REPAL, 2021); Wissenschaftszentrum Berlin f&#252r Sozialforschung (WZB, Berlin, 2021), IE University (Madrid, 2021), the Quality of Government Institute (Gothenburg, 2021), Northwestern University (Evanston, IL, 2021), Instituto Tecnológico Autónomo de México (ITAM, Mexico City, 2020), Harvard Ash Center for Democratic Governance and Innovation (Cambridge, MA, 2020), Rutgers University (Newark, NJ, 2019), Centro de Investigación y Docencia Económicas (CIDE, Mexico City, 2019), Yale-NUS College (Singapore, 2019), Vanderbilt University (Nashville, TN, 2019), New York University Abu Dhabi (NYUAD, 2019), Tecnológico de Monterrey (TEC, Monterrey, Mexico, 2019), the 2019 Northeast Workshop in Empirical Political Science (NEWEPS, New York City), the 2019 Conference of the Society for Political Methodology (PolMeth, Cambridge), the 2018 American Political Science Association Congress (APSA, Boston), and the 2018 MIT Workshop on the Politics of Education (Cambridge, MA)
