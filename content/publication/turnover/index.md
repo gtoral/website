@@ -6,7 +6,7 @@ authors:
   - admin
 publication_short: ""
 
-abstract: Electoral accountability is fundamental to representative democracy. Yet, it can also be costly for governance because it causes turnover among bureaucrats (not just politicians) and disruptions in the delivery of public services. Most research on the connections between political and bureaucratic turnover emphasizes how incoming governments reshape the bureaucracy. This article argues that election losers also engage in bureaucratic shuffles before leaving office, and that their actions can depress public service delivery. I demonstrate these turnover dynamics through a close-races regression discontinuity design, using administrative data on the universe of government employees and on healthcare services in Brazilian municipalities. Results show that an electoral defeat of the incumbent causes dismissals of temporaries, hires of civil servants, and declines in healthcare service delivery before the winner takes office. These findings highlight the political strategies of lame-duck politicians and the consequential bureaucratic politics that follow elections.
+abstract: Electoral accountability is fundamental to representative democracy. Yet, it can also be costly for governance because it causes turnover among bureaucrats (not just politicians) and disrupts the delivery of public services. Previous studies on the connection between political and bureaucratic turnover emphasize how incoming governments reshape the bureaucracy. This article argues that election losers also engage in bureaucratic shuffling before leaving office, and that this can depress public service delivery. I employ a close-races regression discontinuity design to demonstrate these turnover dynamics, using administrative data on the universe of government employees and healthcare services in Brazilian municipalities. The results show that an electoral defeat of the incumbent causes dismissals of temporary employees, the hiring of more civil servants, and declines in healthcare service delivery before the winner takes office. These findings highlight the political strategies of lame-duck politicians and the consequential bureaucratic politics that follow elections.
 
 draft: false
 featured: false
@@ -33,7 +33,7 @@ author_notes: []
 doi: ""
 publication: "Invited to revise and resubmit, *American Political Science Review*"
 projects: []
-date: 2021-06-21T06:00:00.000Z
+date: 2021-10-09T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
