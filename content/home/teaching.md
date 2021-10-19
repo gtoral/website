@@ -34,5 +34,7 @@ design:
 * [Evaluation of Social Programs](syllabi/jpal_agenda.pdf). June 2017. Teaching Assistant for J-PAL's [flagship executive education course](https://www.povertyactionlab.org/page/evaluating-social-programs).
 
 **Guest lectures**
+* Guest lecture on fieldwork in the Master in Social Sciences of the [Carlos III-Juan March Institute](https://ic3jm.es/en/). October 2021.
+* Guest lecture in the course Representation and Accountability (taught by [Kristin Michelitch](https://sites.google.com/site/kristinmichelitch/) at Vanderbilt University). October 2021.
 * Guest lecture in the course Introduction to Comparative Politics (taught by [Noam Lupu](https://www.noamlupu.com/) at Vanderbilt University). November 2020.
 * Guest lecture in the course Corruption: Finding it and Fixing it (taught by [Jeeyang Rhee Baum](https://www.hks.harvard.edu/faculty/jeeyang-rhee-baum) at Harvard University). November 2019.

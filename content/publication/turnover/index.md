@@ -31,9 +31,9 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Invited to revise and resubmit, *American Political Science Review*"
+publication: "Revised and resubmitted to *American Political Science Review*"
 projects: []
-date: 2021-10-10T06:00:00.000Z
+date: 2021-10-18T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
