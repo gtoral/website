@@ -30,7 +30,7 @@ author_notes: []
 doi: ""
 publication: "Revised and resubmitted to the *American Journal of Political Science*"
 projects: []
-date: 2021-11-04T06:00:00.000Z
+date: 2022-02-06T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
