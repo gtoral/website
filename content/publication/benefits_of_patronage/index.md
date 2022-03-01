@@ -28,9 +28,9 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Under review"
+publication: "Revised and resubmitted to the *American Journal of Political Science*"
 projects: []
-date: 2021-06-11T06:00:00.000Z
+date: 2021-11-04T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
