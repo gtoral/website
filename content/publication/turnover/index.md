@@ -31,7 +31,7 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Invited to revise and resubmit at *Journal of Politics*"
+publication: "Invited to revise and resubmit at the *Journal of Politics*"
 projects: []
 date: 2022-01-15T06:00:00.000Z
 url_slides: ""
