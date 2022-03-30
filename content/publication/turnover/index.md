@@ -38,4 +38,5 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-Presented at IE University (2021), Oxford University (2021), the 2021 American Political Science Association Congress (APSA, Seattle), the 2021 European Political Science Association Conference (EPSA, online), the 2021 Midwest Workshop in Empirical Political Science (MWEPS, online), the 2020 American Political Science Association Congress (APSA, online), Vanderbilt University (2020), and the 2018 MIT GOV/LAB Political Behavior of Development Conference (Cambridge, MA)
+This paper was previously circulated under the title *Turnover: How electoral accountability disrupts the bureaucracy and service delivery*.
+Presented at IE University (2021), Oxford University (2021), the American Political Science Association Congress (APSA, Seattle, 2021), the European Political Science Association Conference (EPSA, online, 2021), the Midwest Workshop in Empirical Political Science (MWEPS, online, 2021), the American Political Science Association Congress (APSA, online, 2021), Vanderbilt University (2020), and the MIT GOV/LAB Political Behavior of Development Conference (Cambridge, MA, 2018)

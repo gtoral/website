@@ -38,4 +38,4 @@ image:
   preview_only: false
 date: 2010-01-30T23:54:00.000Z
 ---
-Presented at the 2010 Trinity Immigration Initiative International Conference (Trinity College Dublin)
+Presented at the Trinity Immigration Initiative International Conference (Trinity College Dublin, 2010)

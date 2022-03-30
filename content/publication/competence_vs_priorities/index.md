@@ -58,4 +58,5 @@ publication: "*Journal of Politics* 83.4: 1417 - 1431"
 projects: []
 date: 2021-10-03T23:54:00.000Z
 ---
-Presented at the 2017 Southeast Latin American Political Behavior Conference (SeLAB, Georgia State University)
+This paper was previously circulated under the name *Accountability backlash: Negative electoral responses to public service provision in Brazil*.
+Presented at the 2017 Southeast Latin American Political Behavior Conference (Georgia State University, SeLAB)

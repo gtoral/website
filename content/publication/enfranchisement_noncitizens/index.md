@@ -32,5 +32,4 @@ publication: "MIT Working Paper 2015-12"
 projects: []
 date: 2015-12-21T23:54:00.000Z
 ---
-Presented at the 2015 Midwest Political Science Association Conference (MPSA, Chicago), and the
-2011 Developments in Contemporary Citizenship Conference (King's College London)
+Presented at the Midwest Political Science Association Conference (MPSA, Chicago, 2015), and the Developments in Contemporary Citizenship Conference (King's College London, 2011)
