@@ -9,7 +9,7 @@ authors:
   - Varja Lipovsek
 publication_short: ""
 
-abstract: The focus of this review is on evidence that initiatives to promote international norms and standards have an impact on the behaviors of the accountability actors. The review complements the 2015 report previously commissioned by TAI on the effectiveness of governance-oriented multi-stakeholder initiatives (MSIs), which focused primarily on ?grey literature? and highlighted the gap in this literature on the impact of MSIs on the actions of accountability actors.
+abstract: The focus of this review is on evidence that initiatives to promote international norms and standards have an impact on the behaviors of the accountability actors. The review complements the 2015 report previously commissioned by TAI on the effectiveness of governance-oriented multi-stakeholder initiatives (MSIs), which focused primarily on grey literature and highlighted the gap in this literature on the impact of MSIs on the actions of accountability actors.
 
 draft: false
 featured: false
