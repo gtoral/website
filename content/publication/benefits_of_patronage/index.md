@@ -15,10 +15,10 @@ tags: []
 slides: ""
 links:
 - name: Appendix
-  url: static/benefits_of_patronage_appendix.pdf
+  url: http://www.guillermotoral.com/benefits_of_patronage_appendix.pdf
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
-url_pdf: static/benefits_of_patronage.pdf
+url_pdf: http://www.guillermotoral.com/benefits_of_patronage.pdf
 url_dataset: ""
 url_project: ""
 url_source: ""
