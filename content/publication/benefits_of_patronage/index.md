@@ -15,7 +15,7 @@ tags: []
 slides: ""
 links:
 - name: Paper
-   url: http://www.guillermotoral.com/benefits_of_patronage.pdf
+  url: http://www.guillermotoral.com/benefits_of_patronage.pdf
 - name: Appendix
   url: http://www.guillermotoral.com/benefits_of_patronage_appendix.pdf
 - name: Best Paper Award, REPAL
