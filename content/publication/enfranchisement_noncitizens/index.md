@@ -11,7 +11,9 @@ featured: false
 tags: []
 
 links:
-url_pdf: enfranchisement_noncitizens.pdf
+- name: Paper
+  url: http://www.guillermotoral.com/enfranchisement_noncitizens.pdf
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -27,6 +27,8 @@ featured: false
 tags: []
 
 links:
+- name: Article
+  url: http://www.guillermotoral.com/competence_vs_priorities.pdf
 - name: Publisher
   url: https://doi.org/10.1086/715064
 - name: Appendix
@@ -37,7 +39,7 @@ links:
   url: https://osf.io/gqmd4
 - name: Replication data
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YILXB4
-url_pdf: competence_vs_priorities.pdf
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''

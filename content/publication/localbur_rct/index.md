@@ -18,9 +18,11 @@ image:
   preview_only: false
 summary: ""
 links:
+- name: Paper
+  url: http://www.guillermotoral.com/localbur_rct.pdf
 - name: Pre-analysis plan
   url: https://osf.io/aeubn
-url_pdf: localbur_rct.pdf
+url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -19,6 +19,8 @@ image:
   preview_only: false
 summary: ""
 links:
+- name: Paper
+  url: http://www.guillermotoral.com/political_bureaucratic_cycles.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

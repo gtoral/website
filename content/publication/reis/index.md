@@ -29,9 +29,11 @@ abstract: "This article examines immigrant organizations from three
 draft: false
 featured: false
 links:
+- name: Article
+  url: http://www.guillermotoral.com/immigrant_organizations.pdf
 - name: Publisher
   url: http://www.reis.cis.es/REIS/jsp/REIS.jsp?opcion=articulo&ktitulo=2235&autor=GUILLERMO+TORAL&lang=en
-url_pdf: reis.pdf
+url_pdf: ""
 image:
   filename: 
   focal_point: Smart

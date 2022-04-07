@@ -21,11 +21,13 @@ image:
   preview_only: false
 summary: ""
 links:
+- Report
+  url: http://www.guillermotoral.com/tai_information_accountability.pdf
 - name: Publisher
   url: https://www.transparency-initiative.org/reports/5819/evidence-syntheses-of-within-government-and-citizen-government-accountability-pathways/
 - name: Evidence review tool
   url: https://mitgovlab.org/results/information-and-non-electoral-accountability-evidence-in-context/  
-url_pdf: "tai_information_accountability.pdf"
+url_pdf: ""
 url_dataset: ""
 url_project: ""
 url_source: ""
