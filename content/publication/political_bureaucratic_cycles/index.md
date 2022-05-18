@@ -37,4 +37,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-Presented at Vanderbilt (2022), FGV-EBAPE (Rio de Janeiro, 2022), FGV-CEPESP (Sao Paulo, 2018), the Midwest Political Science Association Annual Conference (MPSA, Chicago, 2022), the American Political Science Association Annual Meeting (APSA, Washington DC, 2019), the Red para la Economía Política de América Latina Annual Meeting (REPAL, New Orleans, 2019), and the Latin American Studies Association Congress (LASA, Barcelona, 2018)
+Presented at Vanderbilt (2022), FGV-EBAPE (Rio de Janeiro, 2022), FGV-CEPESP (Sao Paulo, 2018), the Midwest Political Science Association Annual Conference (MPSA, Chicago, 2022), the American Political Science Association Annual Meeting (APSA, Washington DC, 2019), the Red para la Economía Política de América Latina Annual Meeting (REPAL, New Orleans, 2019), and the Latin American Studies Association Congress (LASA, Barcelona, 2018 and online, 2022)
