@@ -2,7 +2,7 @@
 title: "Book Review - Decadent Developmentalism: The Political Economy of Democratic Brazil by Taylor, Matthew M.. New York, Cambridge University Press, 2020."
 subtitle: 
 publication_types:
-  - "2"
+  - "8"
 authors:
   - admin
   - ""
