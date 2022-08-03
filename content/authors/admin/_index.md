@@ -13,7 +13,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: far
-    link: mailto:guillermo.toral@vanderbilt.edu
+    link: mailto:guillermo.toral@ie.edu
   - icon: cv
     icon_pack: ai
     link: http://www.guillermotoral.com/cv.pdf
