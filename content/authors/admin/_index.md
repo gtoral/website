@@ -20,7 +20,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
-  - icon: web-of-science
+  - icon: publons
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1864395
   - icon: twitter
