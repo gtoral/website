@@ -20,9 +20,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
-  - icon: publons
+  - icon: web-of-science
     icon_pack: ai
-    link: https://publons.com/researcher/3131674/guillermo-toral/metrics/
+    link: https://www.webofscience.com/wos/author/record/1864395
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/guillermo_toral
