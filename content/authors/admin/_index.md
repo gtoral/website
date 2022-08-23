@@ -22,7 +22,7 @@ social:
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
   - icon: researcherid
     icon_pack: ai
-    link: https://www.webofscience.com/wos/author/record/1864395
+    link: https://www.webofscience.com/wos/author/record/Z-3223-2019
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-9565-3175
