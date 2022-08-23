@@ -23,7 +23,7 @@ social:
   - icon: researcherid
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1864395
-- icon: orcid
+  - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-9565-3175
   - icon: twitter
