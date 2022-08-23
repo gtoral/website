@@ -20,9 +20,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
-  - icon: publons
+  - icon: researcherid
     icon_pack: ai
     link: https://www.webofscience.com/wos/author/record/1864395
+- icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-9565-3175
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/guillermo_toral
