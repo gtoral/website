@@ -14,7 +14,7 @@ featured: false
 tags: []
 slides: ""
 links:
-- name: Paper
+- name: Article
   url: http://www.guillermotoral.com/benefits_of_patronage.pdf
 - name: Appendix
   url: http://www.guillermotoral.com/benefits_of_patronage_appendix.pdf
