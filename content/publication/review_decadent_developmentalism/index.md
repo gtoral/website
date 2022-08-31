@@ -12,7 +12,9 @@ draft: false
 featured: false
 links:
 - name: Publisher
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/polq.13349
+  url: https://www.psqonline.org/article.cfm?idarticle=20332
+- name: Review
+  url: https://www.guillermotoral.com/review_decadent_developmentalism.pdf
 url_pdf: ""
 image:
   filename: 
