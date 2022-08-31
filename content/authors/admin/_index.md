@@ -38,19 +38,19 @@ organizations:
     url: https://www.vanderbilt.edu/
 education:
   courses:
-    - course: PhD in Political Science
+    - course: PhD Political Science
       institution: Massachusetts Institute of Technology
       year: 2020
-    - course: MPhil in Comparative Government
+    - course: MPhil Comparative Government
       institution: University of Oxford
       year: 2011
-    - course: Lic. in Political Science and Public Administration
+    - course: Lic. Political Science & Public Administration
       institution: Universidad Complutense de Madrid
       year: 2009
-email: "guillermo.toral@vanderbilt.edu"
+email: "guillermo.toral@ie.edu"
 superuser: true
 highlight_name: true
 ---
-I am an Assistant Professor of [Political Science](https://www.vanderbilt.edu/political-science/) at [Vanderbilt University](https://www.vanderbilt.edu/), and a Faculty Affiliate at [MIT GOV/LAB](https://mitgovlab.org/). I work in the fields of comparative politics and political economy, with a regional focus on Latin America and a substantive focus on issues of development, governance, and corruption.
+I am an Assistant Professor of [Political Science](https://www.vanderbilt.edu/political-science/) at [Vanderbilt University](https://www.vanderbilt.edu/), and a Faculty Affiliate at [MIT GOV/LAB](https://mitgovlab.org/). I work in the fields of comparative politics and political economy, with a regional focus on Latin America and Southern Europe, and a substantive focus on issues of development, governance, and corruption.
 
 I study relationships among state actors (politicians, bureaucrats, and anti-corruption agents) and how they shape public service delivery and human development. In my work, I use big administrative datasets, surveys, and extensive qualitative fieldwork to shed light on dynamics of government accountability. I am writing a book on *The political logics of patronage*, where I distinguish the strategic uses that local politicians in Brazil make of public employment, and show the divergent implications that those strategies have for government accountability and public service delivery. In other projects I examine the effectiveness of anti-corruption policies and agencies, the role of information in within-government and electoral accountability, and the causes and consequences of the enfranchisement of immigrants.
