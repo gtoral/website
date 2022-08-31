@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Commons Center · PMB 0505 · 230 Appleton Place", city = "Nashville", region = "TN", postcode = "37212", country = "United States", country_code = "US"}
+address = {street = "Paseo de la Castellana 259", city = "Madrid", region = "", postcode = "28046", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.14178162982538", longitude = "-86.79712549686397"}
+coordinates = {latitude = "40.47774425867427", longitude = "-3.688980424196468"}
 
 # Directions for visitors to locate you.
 directions = ""
