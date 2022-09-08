@@ -15,7 +15,7 @@ slides: ""
 links:
 - name: Paper
   url: http://www.guillermotoral.com/turnover.pdf
-- name: Best Paper Award, APSA Health Politics Section
+- name: Best Paper Award, APSA Health Politics and Policy Section
   url: https://politicalsciencenow.com/congratulations-to-apsa-organized-section-award-recipients-sections-21-41/
 - name: Media coverage, BBC Brasil
   url: https://www.bbc.com/portuguese/geral-56041389
