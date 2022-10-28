@@ -23,7 +23,7 @@ design:
 
 **[Massachusetts Institute of Technology](http://www.mit.edu)** (Cambridge, MA, USA)
 * [Machine Learning and Data Science in Politics](syllabi/machine_learning_syllabus.pdf) (undergraduate). Spring 2020. Teaching Assistant for [In Song Kim](http://web.mit.edu/insong/www/). Because of the pandemic, MIT did no teaching evaluations. 
-* [Making Public Policy](syllabi/public_policy_syllabus.pdf) (undergraduate). Fall 2019. Teaching Assistant for [Karilyn Crockett](https://dusp.mit.edu/faculty/karilyn-crockett). Teaching evaluation by students: 6.3 out of 7.
+* [Making Public Policy](syllabi/public_policy_syllabus.pdf) (undergraduate). Fall 2019. Teaching Assistant for [Karilyn Crockett](https://dusp.mit.edu/people/karilyn-crockett). Teaching evaluation by students: 6.3 out of 7.
 * [Political Science Laboratory](syllabi/polisci_lab_syllabus.pdf) (undergraduate). Spring 2019. Co-instructor with [Benjamin Morse](http://www.benmorse.net/). Teaching evaluation by students: 6.6 out of 7. 
 * [Quantitative Research Methods I](syllabi/quant_1_syllabus.pdf) (graduate). Fall 2017. Teaching Assistant for [Daniel Hidalgo](https://www.dhidalgo.me/). Teaching evaluation by students: 6.5 out of 7.
 * [LaTeX workshop](syllabi/latex_slides.pdf). September 2017. Co-instructor with [Weihuang Wong](https://weihuangwong.github.io/).
