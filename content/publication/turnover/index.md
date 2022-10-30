@@ -35,9 +35,9 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Invited to revise and resubmit at the *Journal of Politics*"
+publication: "Revised and resubmitted to the *Journal of Politics*"
 projects: []
-date: 2022-01-15T06:00:00.000Z
+date: 2022-10-30T03:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
