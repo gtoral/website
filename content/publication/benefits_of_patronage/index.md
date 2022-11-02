@@ -18,6 +18,8 @@ links:
   url: http://www.guillermotoral.com/benefits_of_patronage.pdf
 - name: Appendix
   url: http://www.guillermotoral.com/benefits_of_patronage_appendix.pdf
+- name: Replication data
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GHJ8JL
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
 url_pdf: ""
