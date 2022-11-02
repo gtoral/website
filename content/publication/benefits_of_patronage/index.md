@@ -34,7 +34,7 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Conditionally accepted, *American Journal of Political Science*"
+publication: "Forthcoming, *American Journal of Political Science*"
 projects: []
 date: 2022-03-25T06:00:00.000Z
 url_slides: ""
