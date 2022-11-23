@@ -22,12 +22,13 @@ summary: ""
 links:
 - name: Book in English
   url: http://www.guillermotoral.com/great_teachers_en.pdf
-- name: Book in Spanish
-  url: http://www.guillermotoral.com/great_teachers_es.pdf
-- name: Book in Portuguese
-  url: http://www.guillermotoral.com/great_teachers_pt.pdf
 - name: Publisher
   url: https://openknowledge.worldbank.org/handle/10986/20488
+- name: Libro en castellano
+  url: http://www.guillermotoral.com/great_teachers_es.pdf
+- name: Livro em português
+  url: http://www.guillermotoral.com/great_teachers_pt.pdf
+
 url_pdf: ""
 url_dataset: ""
 url_project: ""
