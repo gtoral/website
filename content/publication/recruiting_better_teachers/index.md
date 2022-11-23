@@ -24,9 +24,9 @@ links:
   url: http://www.guillermotoral.com/great_teachers_en.pdf
 - name: Publisher
   url: https://openknowledge.worldbank.org/handle/10986/20488
-- name: Libro en castellano
+- name: Book in Spanish
   url: http://www.guillermotoral.com/great_teachers_es.pdf
-- name: Livro em português
+- name: Book in Portuguese
   url: http://www.guillermotoral.com/great_teachers_pt.pdf
 url_pdf: ""
 url_dataset: ""
