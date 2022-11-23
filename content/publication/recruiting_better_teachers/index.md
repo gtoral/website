@@ -20,7 +20,7 @@ image:
   preview_only: false
 summary: ""
 links:
-- name: Book in English
+- name: Book
   url: http://www.guillermotoral.com/great_teachers_en.pdf
 - name: Publisher
   url: https://openknowledge.worldbank.org/handle/10986/20488
@@ -28,7 +28,6 @@ links:
   url: http://www.guillermotoral.com/great_teachers_es.pdf
 - name: Livro em português
   url: http://www.guillermotoral.com/great_teachers_pt.pdf
-
 url_pdf: ""
 url_dataset: ""
 url_project: ""

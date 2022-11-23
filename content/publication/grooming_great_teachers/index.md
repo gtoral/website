@@ -21,7 +21,7 @@ image:
   preview_only: false
 summary: ""
 links:
-- name: Book in English
+- name: Book
   url: http://www.guillermotoral.com/great_teachers_en.pdf
 - name: Publisher
   url: https://openknowledge.worldbank.org/handle/10986/20488
