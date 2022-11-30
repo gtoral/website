@@ -223,17 +223,17 @@ Paradoxically, what is needed to make the system better is likely to make Lula's
 The transformations in the Brazilian political system and a significantly worse macroeconomic environment will make things very hard for Lula's third term in office. What worked in the past won't work this time. 
 
 <br>
+--
 
+If Bolsonaro lost the Presidency, his camp (a growing and increasingly solidified right) retains very significant power in Congress, at the state level, and in shaping the identities, attitudes, and behaviors of a large sector of the electorate. 
+
+<br>
 --
 
 Lula's ability to durably change policy outcomes will depend on the Executive's relationship to Congress, the judiciary, and other accountability actors; and on its ability to curb the dynamics of polarization among both citizens and elites. 
 
 <br>
 --
-
-If Bolsonaro lost the Presidency, his camp (a growing and increasingly solidified right) retains very significant power in Congress, at the state level, and in shaping the identities, attitudes, and behaviors of a large sector of the electorate. 
-
-<br>
 
 .right[
 ```{r echo=FALSE, tidy=FALSE}
