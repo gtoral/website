@@ -14,7 +14,7 @@ abstract: "Bureaucracy is everywhere. Unelected bureaucrats are a key link betwe
 draft: false
 featured: false
 links:
-- name: Paper
+- name: Article
   url: http://www.guillermotoral.com/bureaucratic_politics_review.pdf
 url_pdf: ""
 image:
