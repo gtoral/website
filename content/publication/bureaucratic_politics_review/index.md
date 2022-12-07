@@ -16,6 +16,8 @@ featured: false
 links:
 - name: Article
   url: http://www.guillermotoral.com/bureaucratic_politics_review.pdf
+- name: Inventory of articles on the bureaucracy
+  url: http://www.guillermotoral.com/bureaucratic_politics_inventory.csv 
 url_pdf: ""
 image:
   filename: 
