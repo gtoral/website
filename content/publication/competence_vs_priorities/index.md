@@ -33,12 +33,12 @@ links:
   url: https://doi.org/10.1086/715064
 - name: Appendix
   url: competence_vs_priorities_appendix.pdf
+- name: Replication data
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YILXB4
 - name: Pre-analysis plan, field experiment
   url: https://osf.io/s7bfe
 - name: Pre-analysis plan, survey experiment  
   url: https://osf.io/gqmd4
-- name: Replication data
-  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YILXB4
 url_pdf: ""
 url_code: ''
 url_dataset: ''
