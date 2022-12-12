@@ -1,5 +1,5 @@
 ---
-title: "How patronage delivers: Political appointments, bureaucratic accountability, and service delivery in Brazil"
+title: "How Patronage Delivers: Political Appointments, Bureaucratic Accountability, and Service Delivery in Brazil"
 subtitle: 
 publication_types:
   - "2"
