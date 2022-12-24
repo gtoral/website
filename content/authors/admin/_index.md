@@ -21,7 +21,6 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CcjBiT8AAAAJ&hl=en/
   - icon: clarivate
-    icon_pack: academicons
     link: https://www.webofscience.com/wos/author/record/Z-3223-2019
   - icon: orcid
     icon_pack: ai
