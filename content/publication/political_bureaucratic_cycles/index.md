@@ -1,12 +1,12 @@
 ---
-title: "Political bureaucratic cycles: Public employment and service delivery around elections in Brazil"
+title: "Can anti-corruption policies curb political budget cycles? Evidence from public employment in Brazil"
 publication_types:
   - "3"
 authors:
   - admin
 publication_short: ""
 
-abstract: A vast literature on political cycles has shown that politicians often manipulate policy tools ahead of elections, as a strategy to improve their electoral performance. Much less is known about the effects of policies used to contain these cycles. I argue that legal constraints on politicians' discretion over inputs such as spending or hiring ahead of elections simply displace cycles and can even exacerbate them. I demonstrate these unintended consequences using large, monthly panels of Brazilian municipalities, and measuring cycles in bureaucratic inputs (hires) and outputs (services). Brazilian laws ban hiring and firing bureaucrats in a 6-month period around elections, which take place at the same time throughout the country. Hiring contracts during this freeze period but it expands in the months before the ban, for both temporary and civil service bureaucrats. These patterns are even more pronounced in localities exposed to a randomized anti-corruption audit. Healthcare services also follow cyclical patterns -- some services expand ahead of the elections (at the expense of others), and in general services contract immediately before and after the election. Together, these results suggest that constraints on politicians' discretion over inputs around elections displace rather than eliminate electoral cycles, and can have other unintended consequences.
+abstract: A vast literature on political cycles has shown that politicians often manipulate policy tools ahead of elections to win votes. Yet much less is known about the effects of policies designed to contain these cycles. I argue that legal constraints on politicians? discretion over tools like spending, debt, transfers, or hires ahead of elections simply displace ?and can even exacerbate? such cycles. I demonstrate these unintended consequences using large, monthly panels of Brazilian municipalities to measure cycles in public employment. Federal laws ban hiring and firing bureaucrats in a 6-month period around elections. Consistent with politicians anticipating and strategically responding to these constraints, hiring decreases during this freeze period, but increases in the months before the ban. Cycles are not restricted to political advisers or to temporary employees ? they are present across all levels of the bureaucracy and in the civil service too. These patterns are even more pronounced in localities that experience a randomized anti-corruption audit. These findings highlight how the effectiveness of anti- corruption strategies can be undermined by politicians? strategic responses to them.
 
 draft: false
 featured: false
