@@ -16,12 +16,16 @@ slides: ""
 links:
 - name: Article
   url: http://www.guillermotoral.com/benefits_of_patronage.pdf
+- name: Publisher
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/ajps.12758
 - name: Appendix
   url: http://www.guillermotoral.com/benefits_of_patronage_appendix.pdf
 - name: Replication data
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GHJ8JL
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
+- name: Summary in Portuguese
+  url: http://www.guillermotoral.com/benefits_of_patronage_summary_pt.pdf
 url_pdf: ""
 url_dataset: ""
 url_project: ""
@@ -34,9 +38,9 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Forthcoming, *American Journal of Political Science*"
+publication: "*American Journal of Political Science*, Early view"
 projects: []
-date: 2022-03-25T06:00:00.000Z
+date: 2023-01-28T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
