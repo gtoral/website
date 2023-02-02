@@ -22,12 +22,12 @@ links:
   url: http://www.guillermotoral.com/benefits_of_patronage_appendix.pdf
 - name: Replication data
   url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GHJ8JL
-- name: Best Paper Award, REPAL
-  url: http://redeconomiapoliticaamlat.com/awards/
 - name: Non-technical summary
   url: http://www.guillermotoral.com/benefits_of_patronage_summary_en.pdf
 - name: Summary in Portuguese
   url: http://www.guillermotoral.com/benefits_of_patronage_summary_pt.pdf
+- name: Best Paper Award, REPAL
+  url: http://redeconomiapoliticaamlat.com/awards/
 - name: Media coverage @ The World
   url: https://theworld.org/stories/2023-02-01/trust-process-part-i
 url_pdf: ""
