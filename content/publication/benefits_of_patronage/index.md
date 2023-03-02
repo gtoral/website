@@ -29,7 +29,7 @@ links:
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
 - name: Media coverage @ Folha de S&atilde;o Paulo
-  url: https://www1.folha.uol.com.br/educacao/2022/04/indicacao-de-diretores-escolares-segue-na-mao-de-politicos-mas-escolha-por-merito-avanca.shtml
+  url: https://www1.folha.uol.com.br/poder/2023/03/indicado-politico-para-cargo-tecnico-pode-ter-vantagens-diz-estudo.shtml
 - name: Media coverage @ Frankfurter Allgemeine
   url: https://www.faz.net/aktuell/wissen/geist-soziales/soziologie-studie-vorteile-der-vetternwirtschaft-18651257.html
 - name: Media coverage @ The World
