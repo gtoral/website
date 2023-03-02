@@ -28,6 +28,8 @@ links:
   url: http://www.guillermotoral.com/benefits_of_patronage_summary_pt.pdf
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
+- name: Media coverage @ Folha de São Paulo
+  url: https://www1.folha.uol.com.br/educacao/2022/04/indicacao-de-diretores-escolares-segue-na-mao-de-politicos-mas-escolha-por-merito-avanca.shtml
 - name: Media coverage @ Frankfurter Allgemeine
   url: https://www.faz.net/aktuell/wissen/geist-soziales/soziologie-studie-vorteile-der-vetternwirtschaft-18651257.html
 - name: Media coverage @ The World
