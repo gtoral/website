@@ -33,7 +33,7 @@ links:
 - name: Media coverage @ Frankfurter Allgemeine
   url: https://www.faz.net/aktuell/wissen/geist-soziales/soziologie-studie-vorteile-der-vetternwirtschaft-18651257.html
 - name: Media coverage @ Nexo
-  url: https://www.nexojornal.com.br/academico/2023/04/27/Como-as-nomea\%C3\%A7\%C3\%B5es-pol\%C3\%ADticas-impactam-os-servi\%C3\%A7os-p\%C3\%BAblicos
+  url: https://www.nexojornal.com.br/academico/2023/04/27/Como-as-nomea%C3%A7%C3%B5es-pol%C3%ADticas-impactam-os-servi%C3%A7os-p%C3%BAblicos
 - name: Media coverage @ The World
   url: https://theworld.org/stories/2023-02-01/trust-process-part-i
 url_pdf: ""
