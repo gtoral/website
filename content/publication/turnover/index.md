@@ -1,7 +1,7 @@
 ---
 title: "Turnover: How lame-duck governments disrupt the bureaucracy and service delivery before leaving office"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - admin
 publication_short: ""
@@ -35,9 +35,9 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Revised and resubmitted to the *Journal of Politics*"
+publication: "Conditionally accepted at the *Journal of Politics*"
 projects: []
-date: 2022-10-30T03:00:00.000Z
+date: 2023-05-08T03:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
