@@ -12,7 +12,7 @@ design:
     image_darken: 0
 ---
 **[IE University](http://www.ie.edu)** (Madrid, Spain)
-* [Government and Comparative Politics](syllabi/comparative_politics_syllabus.pdf) (undergraduate). Spring 2023. 
+* [Comparative Politics](syllabi/comparative_politics_syllabus.pdf) (undergraduate). Spring 2023. 
 * [Public Policy Analysis](syllabi/public_policy_analysis_syllabus.pdf) (undergraduate). Fall 2022. Teaching evaluation by students: 4.4 out of 5.
 
 **[Vanderbilt University](http://www.vanderbilt.edu)** (Nashville, TN, USA)
