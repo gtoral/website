@@ -19,7 +19,7 @@ links:
 - name: Article
   url: http://www.guillermotoral.com/bureaucratic_politics_review.pdf
 - name: Publisher
-  url: https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-061621-084933
+  url: https://www.annualreviews.org/doi/full/10.1146/annurev-polisci-061621-084933
 - name: Inventory of articles on the bureaucracy
   url: bureaucratic_politics_inventory.csv 
 url_pdf: ""

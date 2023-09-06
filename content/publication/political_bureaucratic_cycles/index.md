@@ -21,6 +21,8 @@ summary: ""
 links:
 - name: Paper
   url: http://www.guillermotoral.com/political_bureaucratic_cycles.pdf
+- name: Best Comparative Policy Paper Award, APSA Public Policy Section
+  url: http://www.guillermotoral.com/apsa_awards_2023.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
