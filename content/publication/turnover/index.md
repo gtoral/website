@@ -15,6 +15,10 @@ slides: ""
 links:
 - name: Paper
   url: http://www.guillermotoral.com/turnover.pdf
+- name: Appendix
+  url: http://www.guillermotoral.com/turnover_appendix.pdf
+- name: Replication data
+  url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KO2VPS
 - name: Best Paper Award, APSA Health Politics and Policy Section
   url: http://www.guillermotoral.com/apsa_awards_2022.pdf
 - name: Media coverage @ BBC Brasil
