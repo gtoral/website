@@ -3,7 +3,7 @@ widget: pages
 widget_id: Articles
 headless: true
 weight: 20
-title: Peer-reviewed articles
+title: Articles
 subtitle: ""
 content:
   page_type: publication

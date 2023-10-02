@@ -2,7 +2,7 @@
 title: "Bureaucratic Politics: Blind Spots and Opportunities in Political Science"
 subtitle: 
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Sarah Brierley
   - Kenneth Lowande
