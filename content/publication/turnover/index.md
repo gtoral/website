@@ -41,7 +41,7 @@ author_notes: []
 doi: ""
 publication: "Conditionally accepted at the *Journal of Politics*"
 projects: []
-date: 2023-05-08T03:00:00.000Z
+date: 2023-09-27T03:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""

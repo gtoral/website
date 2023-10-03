@@ -50,7 +50,7 @@ author_notes: []
 doi: ""
 publication: "*American Journal of Political Science*, Early view"
 projects: []
-date: 2023-01-28T06:00:00.000Z
+date: 2023-06-28T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
