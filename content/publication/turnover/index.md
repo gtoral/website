@@ -39,7 +39,7 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "Conditionally accepted at the *Journal of Politics*"
+publication: "*Journal of Politics*, forthcoming"
 projects: []
 date: 2023-09-27T03:00:00.000Z
 url_slides: ""
