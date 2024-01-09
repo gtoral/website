@@ -27,3 +27,7 @@
 	from = "/llbbir"
 	to = ""
 
+[[redirects]]
+	from = "/slides"
+	to = "https://www.dropbox.com/scl/fi/0lw9c7v5aytzkwbxb5rub/1.-Introductions.pptx?rlkey=c2khxp5rwsozxdzq30sbyey08&dl=0"
+
