@@ -32,12 +32,8 @@
 	to = "https://docs.google.com/forms/d/e/1FAIpQLSdDdMwJxGOcZ2a31DWaBEIid_KJFzEZhSKkzejcnlQxZibWMw/viewform?usp=sf_link"
 
 [[redirects]]
-	from = "/cycles"	
-	to = "https://www.dropbox.com/scl/fi/c6sp820a5u3aj400y9ygg/polburcycles_slides.pdf?rlkey=kjjwde3293u83c0bhl95wi9c3&dl=0"
-
-[[redirects]]
 	from = "/slides"
-	to = "https://www.dropbox.com/scl/fi/1t1y8t11sffo3g6xtn38j/4.-Descriptive-inference-with-surveys.pdf?rlkey=hotss561qvo4tdegt5nkbmlkb&dl=0"
+	to = "https://www.dropbox.com/scl/fi/cm0nmk5k8lskn22skiwwp/5.-Democracy-democratization-and-survival.pptx?rlkey=9u9yt3wweudticfl0uhfcsoip&dl=0"
 	
 [[redirects]]	
 	from = "/mpmg"
