@@ -13,8 +13,10 @@ featured: false
 tags: []
 slides: ""
 links:
-- name: Paper
+- name: Pre-print
   url: http://www.guillermotoral.com/turnover.pdf
+- name: Publisher
+  url: https://www.journals.uchicago.edu/doi/10.1086/729961
 - name: Appendix
   url: http://www.guillermotoral.com/turnover_appendix.pdf
 - name: Replication data
