@@ -1,5 +1,5 @@
 ---
-title: "Turnover: How lame-duck governments disrupt the bureaucracy and service delivery before leaving office"
+title: "Turnover: How Lame-Duck Governments Disrupt the Bureaucracy and Service Delivery before Leaving Office"
 publication_types:
   - "2"
 authors:
