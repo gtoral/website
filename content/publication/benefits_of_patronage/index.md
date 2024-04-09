@@ -48,9 +48,9 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "*American Journal of Political Science*, Early view"
+publication: "*American Journal of Political Science* 68(2): 797-815"
 projects: []
-date: 2023-06-28T06:00:00.000Z
+date: 2024-04-08T06:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
