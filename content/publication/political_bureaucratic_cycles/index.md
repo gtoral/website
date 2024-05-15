@@ -23,6 +23,8 @@ links:
   url: http://www.guillermotoral.com/political_bureaucratic_cycles.pdf
 - name: Best Comparative Policy Paper Award, APSA Public Policy Section
   url: http://www.guillermotoral.com/apsa_awards_2023.pdf
+- name: Honorable Mention, Best Political Institutions Paper, LASA Political Institutions Section
+  url: https://lasaweb.org/en/2024-section-awards/
 url_code: ''
 url_dataset: ''
 url_poster: ''
