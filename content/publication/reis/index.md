@@ -32,7 +32,7 @@ links:
 - name: Article
   url: http://www.guillermotoral.com/immigrant_organizations.pdf
 - name: Publisher
-  url: https://reis.cis.es/index.php/reis/article/view/777
+  url: https://doi.org/10.5477/cis/reis.132.105
 url_pdf: ""
 image:
   filename: 
