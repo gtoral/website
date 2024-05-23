@@ -32,9 +32,9 @@ author_notes: []
 doi: ""
 publication: "Working paper"
 projects: []
-date: 2024-03-10T23:54:00.000Z
+date: 2024-05-10T23:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-Presented at the World Bank (2023), USP (2023), CAF (2023), MIT (2023), IE (2023), and the Latin American Political Methodology Meeting (Recife, 2023).
+Presented at ETH Zürich (2024), the Aix-Marseille School of Economics (2024), World Bank (2023), USP (2023), CAF (2023), MIT (2023), IE (2023), the IE-Rochester Workshop in Political Economy (2024), and the Latin American Political Methodology Meeting (Recife, 2023).

@@ -32,7 +32,7 @@ links:
 - name: Article
   url: http://www.guillermotoral.com/immigrant_organizations.pdf
 - name: Publisher
-  url: http://www.reis.cis.es/REIS/jsp/REIS.jsp?opcion=articulo&ktitulo=2235&autor=GUILLERMO+TORAL&lang=en
+  url: https://reis.cis.es/index.php/reis/article/view/777
 url_pdf: ""
 image:
   filename: 
