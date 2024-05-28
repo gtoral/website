@@ -6,7 +6,7 @@ authors:
   - admin
 publication_short: ""
 
-abstract: Empowering autonomous prosecutor's offices is increasingly seen as a promising strategy to fight corruption. Yet we lack systematic evidence about whether they are effective at reducing corruption and, if so, why. I argue that prosecutors' use of the tools that can make them effective anti-corruption actors (including autonomy, discretion, and timeliness) benefits from physical proximity to the communities they monitor. I test this theory through a causal event study of state prosecutors in Brazil,  leveraging administrative data on their deployment and behavior across municipalities. I find that prosecutor presence causes increased anti-corruption action targeted at the local government. In response to prosecutor presence, local politicians hire more bureaucrats in the civil service, rather than on temporary contracts -- a common vehicle for corruption in this setting. I combine these quasi-experimental findings with insights from a survey of politicians and in-depth interviews with prosecutors. Together, the results suggest that physical presence can make prosecutors more effective at fighting corruption and provide rare causal evidence of the impact of prosecutor's offices on local governance outcomes. 
+abstract: Prosecutors are central figures in the fight against corruption and the rule of law more broadly. Yet we lack systematic evidence about whether they are effective at reducing corruption and, if so, why. I argue that prosecutors' use of autonomy and discretion in anti-corruption work benefits from physical proximity to the communities they monitor. I test this theory through a causal event study of state prosecutors in Brazil,  leveraging administrative data on their deployment and behavior across municipalities. I find that prosecutor presence causes increased anti-corruption action targeted at the local government. In response to prosecutor presence, local politicians hire more bureaucrats on the civil service, rather than on temporary contracts -- a common vehicle for corruption in this setting. Consistent with prosecutor presence constraining malfeasance, I find that municipal accounts executed right after the arrival of a prosecutor have lower levels of corruption (as measured by federal auditors) than those executed right before. I combine these quasi-experimental findings with insights from a survey of politicians and in-depth interviews with prosecutors. Together, the results suggest that physical presence can make prosecutors more effective at fighting corruption, and provide rare causal evidence of the impact of autonomous prosecutors on local governance. 
 
 draft: false
 featured: false
@@ -32,7 +32,7 @@ author_notes: []
 doi: ""
 publication: "Working paper"
 projects: []
-date: 2024-05-10T23:54:00.000Z
+date: 2024-05-28T22:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
