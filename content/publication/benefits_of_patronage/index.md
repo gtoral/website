@@ -29,7 +29,7 @@ links:
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
 - name: Media coverage @ Folha de S&atilde;o Paulo
-  url: folha_2023.pdf
+  url: http://www.guillermotoral.com/folha_2023.pdf
 - name: Media coverage @ Frankfurter Allgemeine
   url: https://www.faz.net/aktuell/wissen/geist-soziales/soziologie-studie-vorteile-der-vetternwirtschaft-18651257.html
 - name: Media coverage @ Nexo
