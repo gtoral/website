@@ -37,4 +37,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-Presented at ETH Zurich (2024), the Aix-Marseille School of Economics (2024), the World Bank (2023), USP (2023), CAF (2023), MIT (2023), IE (2023), the LASA congress (Bogota, 2024), the LACSUG conference (Cartagena, 2024), the IE-Rochester Workshop in Political Economy (Segovia, 2024), and the Latin American Political Methodology Meeting (Recife, 2023).
+Presented at ETH Zurich (2024), the Aix-Marseille School of Economics (2024), the World Bank (2023), USP (2023), CAF (2023), MIT (2023), IE (2023), the REPAL conference (Washington DC, 2024), the LASA congress (Bogota, 2024), the LACSUG conference (Cartagena, 2024), the IE-Rochester Workshop in Political Economy (Segovia, 2024), and the Latin American Political Methodology Meeting (Recife, 2023).
