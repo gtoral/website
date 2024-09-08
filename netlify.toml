@@ -16,25 +16,6 @@
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
  
 [[redirects]]
-	from = "/bir"
-	to = "https://www.dropbox.com/scl/fi/9kc2485bgu4zb3bj70dmh/malis.zip?rlkey=6ci3hj7up1di5ji77grp9it63&dl=0"
+	from = "/cp_survey"
+	to = "https://forms.gle/SGNYsERzCWVBqNSG9"
 	
-[[redirects]]
-	from = "/pple"
-	to = "https://docs.google.com/forms/d/e/1FAIpQLSfwCX3CCgNkRWGfvJrnU3dC-FIaq1cqj4eXJ_WYF-BZniEWqQ/viewform?usp=sf_link"
-	
-[[redirects]]
-	from = "/llbbir"
-	to = "https://www.dropbox.com/scl/fi/sf11zr8b3rbot6p2ztmnw/7.-Elections-and-electoral-systems.pptx?rlkey=yehr6ozdvwyafq4tv13arwo0d&dl=0"
-	
-[[redirects]]
-	from = "/mid"	
-	to = "https://docs.google.com/forms/d/e/1FAIpQLSdDdMwJxGOcZ2a31DWaBEIid_KJFzEZhSKkzejcnlQxZibWMw/viewform?usp=sf_link"
-
-[[redirects]]
-	from = "/survey"
-	to = "https://forms.gle/WSR8kUoM1LrXWFFs7"
-	
-[[redirects]]	
-	from = "/midterm-debrief"
-	to = "https://forms.gle/WSR8kUoM1LrXWFFs7"
