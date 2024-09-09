@@ -16,7 +16,7 @@ links:
 - name: Pre-print
   url: http://www.guillermotoral.com/turnover.pdf
 - name: Publisher
-  url: https://www.journals.uchicago.edu/doi/10.1086/729961
+  url: https://doi.org/10.1086/729961
 - name: Appendix
   url: http://www.guillermotoral.com/turnover_appendix.pdf
 - name: Replication data
@@ -45,7 +45,7 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "*Journal of Politics*, forthcoming"
+publication: "*Journal of Politics* 86.4: 1348 - 1367"
 projects: []
 date: 2024-06-06T03:00:00.000Z
 url_slides: ""
