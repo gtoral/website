@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: Book reviews
+widget_id: Editor-invited book reviews
 headless: true
 weight: 25
 title: Book reviews

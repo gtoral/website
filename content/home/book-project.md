@@ -4,7 +4,7 @@ widget_id: Book project
 headless: true
 weight: 60
 title: Book project
-active: true
+active: false
 design:
   columns: "1"
   background:
