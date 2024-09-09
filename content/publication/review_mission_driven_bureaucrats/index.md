@@ -1,6 +1,6 @@
 ---
 title: "Mission Driven Bureaucrats: Empowering People To Help Government Do Better, by Dan Honig
-(Oxford University Press, 2024). Governance, forthcoming (2024)"
+(Oxford University Press, 2024)"
 subtitle: 
 publication_types:
   - "0"
