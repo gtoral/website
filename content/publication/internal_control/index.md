@@ -1,12 +1,12 @@
 ---
 title: "Internal Control as State Capacity"
 publication_types:
-  - "2"
+  - "3"
 authors:
   - admin
 publication_short: ""
 
-abstract: Electoral accountability is fundamental to representative democracy. Yet, it can also be costly for governance because it generates turnover among bureaucrats (not just politicians) and disrupts the delivery of public services. Previous studies on the connection between political and bureaucratic turnover emphasize how incoming governments reshape the bureaucracy. This article argues that election losers also engage in bureaucratic shuffling before leaving office, and that this can depress public service delivery. I employ a close-races regression discontinuity design to demonstrate these turnover dynamics, using administrative data on the universe of government employees and healthcare services in Brazilian municipalities. The results show that the incumbent's electoral defeat causes dismissals of temporary employees, the hiring of more civil servants, and declines in healthcare service delivery before the winner takes office. These findings highlight the political strategies of lame-duck politicians and the consequential bureaucratic politics that follow elections.
+abstract: While previous research has thoroughly examined the consequences of external control on subnational governments, less is known about the drivers and consequences of internal control. This paper presents a series of findings on Brazilian municipalities? internal control systems, leveraging administrative data and quasi-experimental designs. First, I use cross-sectional data to document that there remains significant variation in the resources, mandates, and actions of internal control systems. Second, I use panel data and a causal event study design to show that legal reforms of internal control systems lead to an increase in hires of internal controllers. Third, I show these legal reforms have downstream consequences in the control of patronage, leading to a reduction in the size of the municipal workforce, and a higher incidence of civil service contracts. Fourth, I show that randomized federal anti-corruption audits have significant effects on municipal control systems. Together, these findings highlight the relevance of local internal control institutions and call for further research on the causes and consequences of their strength.
 
 draft: false
 featured: false
@@ -31,7 +31,7 @@ author_notes: []
 doi: ""
 publication: "CAF working paper 2024/08"
 projects: []
-date: 2024-06-06T03:00:00.000Z
+date: 2024-05-20T03:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
