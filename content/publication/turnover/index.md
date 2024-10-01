@@ -27,6 +27,8 @@ links:
   url: http://www.guillermotoral.com/turnover_summary_pt.pdf
 - name: Best Paper Award, APSA Health Politics and Policy Section
   url: http://www.guillermotoral.com/apsa_awards_2022.pdf
+- name: Media coverage @ Nexo
+  url: https://www.nexojornal.com.br/academico/2024/09/25/rotatividade-governos-influencia-servicos-publicos-pesquisa
 - name: Media coverage @ BBC Brasil
   url: https://www.bbc.com/portuguese/geral-56041389
 - name: Media coverage @ Globo G1
