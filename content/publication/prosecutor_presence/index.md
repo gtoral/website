@@ -21,6 +21,8 @@ summary: ""
 links:
 - name: Paper
   url: http://www.guillermotoral.com/prosecutor_presence.pdf
+- name: Publisher
+  url: https://gld.gu.se/en/publications/gld-working-papers/wp71-street-level-rule-of-law-prosecutor-presence-and-the-fight-against-corruption/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -30,7 +32,7 @@ url_source: ''
 url_video: ''
 author_notes: []
 doi: ""
-publication: "Working paper"
+publication: "GLD working paper no. 71"
 projects: []
 date: 2024-05-27T22:54:00.000Z
 url_slides: ""
