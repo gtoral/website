@@ -55,6 +55,6 @@ I am an Assistant Professor of Political Science at [IE University](https://www
 
 My research agenda centers on relationships among state actors (politicians, bureaucrats, and anti-corruption agents), anti-corruption policies, and their impacts on public service delivery and human development. In my work, I use big administrative datasets, surveys, experimental and quasi-experimental designs, and extensive qualitative fieldwork.
 
-Some of my work has been published or is forthcoming in the *American Journal of Political Science*, the *Journal of Politics*, and the *Annual Review of Political Science*.
+Some of my work has been published in the *American Journal of Political Science*, the *Journal of Politics*, and the *Annual Review of Political Science*.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
