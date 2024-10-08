@@ -29,8 +29,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/guillermo_toral
-- icon: bluesky
-    icon_pack: ai
+  - icon: bluesky
+    icon_pack: fab
     link: https://bsky.app/profile/guillermotoral.com
   - icon: linkedin
     icon_pack: fab
