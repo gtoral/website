@@ -27,7 +27,7 @@ links:
   url: http://www.guillermotoral.com/turnover_summary_pt.pdf
 - name: Best Paper Award, APSA Health Politics and Policy Section
   url: http://www.guillermotoral.com/apsa_awards_2022.pdf
-- name: Media coverage @ Nada es Gratis  
+- name: Media coverage @ Nada es Gratis
   url: https://nadaesgratis.es/admin/los-gobiernos-salientes-que-resultan-de-una-derrota-electoral-alteran-la-burocracia-y-danan-la-prestacion-de-servicios-publicos-antes-de-abandonar-el-poder
 - name: Media coverage @ Nexo
   url: https://www.nexojornal.com.br/academico/2024/09/25/rotatividade-governos-influencia-servicos-publicos-pesquisa
