@@ -26,6 +26,8 @@ links:
   url: http://www.guillermotoral.com/benefits_of_patronage_summary_en.pdf
 - name: Summary in Portuguese
   url: http://www.guillermotoral.com/benefits_of_patronage_summary_pt.pdf
+- name: AJPS Best Article Award, MPSA
+  url: https://www.mpsanet.org/professional-resources/awards/2025-award-recipients/
 - name: Best Paper Award, REPAL
   url: http://redeconomiapoliticaamlat.com/awards/
 - name: Media coverage @ Folha de S&atilde;o Paulo
