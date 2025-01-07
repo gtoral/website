@@ -51,7 +51,7 @@ email: "guillermo.toral@ie.edu"
 superuser: true
 highlight_name: true
 ---
-I am an Assistant Professor of Political Science and Ram&oacute;n y Cajal fellow at [IE University](https://www.ie.edu/), and a Faculty Affiliate at [MIT GOV/LAB](https://mitgovlab.org/). I work in the fields of comparative politics and political economy, with a regional focus on Latin America and Southern Europe, and a substantive focus on issues of development, governance, and corruption.
+I am Assistant Professor of Political Science and Ram&oacute;n y Cajal fellow at [IE University](https://www.ie.edu/), and Faculty Affiliate at [MIT GOV/LAB](https://mitgovlab.org/). I work in the fields of comparative politics and political economy, with a regional focus on Latin America and Southern Europe, and a substantive focus on issues of development, governance, and corruption.
 
 My research agenda centers on relationships among state actors (politicians, bureaucrats, and anti-corruption agents), anti-corruption policies, and their impacts on public service delivery and human development. In my work, I use big administrative datasets, surveys, experimental and quasi-experimental designs, and extensive qualitative fieldwork.
 
