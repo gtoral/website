@@ -26,9 +26,6 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0001-9565-3175
-  - icon: scopus
-    icon_pack: ai
-    link: https://www.scopus.com/authid/detail.uri?authorId=36599451700
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/guillermotoral/
