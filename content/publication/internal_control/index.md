@@ -36,4 +36,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-This paper was presented at CAF (2024).
+This paper was presented at Queen Mary University London (2025), CAF (Development Bank of Latin America, 2024).
