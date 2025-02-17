@@ -11,8 +11,6 @@ abstract:
 draft: false
 featured: false
 links:
-- name: Review
-  url: https://www.guillermotoral.com/review_decadent_developmentalism.pdf
 - name: Publisher
   url: https://www.psqonline.org/article.cfm?idarticle=20332
 url_pdf: ""

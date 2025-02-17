@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - ""
-publication: "*Governance 2025; 38:e70006"
+publication: "*Governance* 2025; 38:e70006"
 abstract: 
 draft: false
 featured: false
