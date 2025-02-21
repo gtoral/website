@@ -6,7 +6,7 @@ authors:
   - admin
 publication_short: ""
 
-abstract: Prosecutors are central figures in the fight against corruption and the rule of law more broadly. Yet we lack systematic evidence about whether they are effective at reducing corruption and, if so, why. I argue that prosecutors' use of autonomy and discretion in anti-corruption work benefits from physical presence in the communities they monitor because it helps them obtain information, exert formal and informal pressures, and instill in politicians a sense of being monitored. I test this theory through a causal event study of state prosecutors in Brazil, leveraging administrative data on their deployment and behavior across municipalities. I find that prosecutor presence causes increased anti-corruption action targeted at the local government. In response to prosecutor presence, local politicians hire more bureaucrats on the civil service rather than on temporary contracts -- a common vehicle for corruption in this setting. Consistent with prosecutor presence constraining malfeasance, I show that federal auditors find lower levels of corruption in municipal accounts executed right after the arrival of a prosecutor than in those executed right before. I combine these quasi-experimental findings with insights from a survey of politicians and in-depth interviews with prosecutors. Together, the results demonstrate that physical presence can make prosecutors more effective at fighting corruption, and provide rare causal evidence of the impact of autonomous prosecutors on governance. 
+abstract: Prosecutors are central figures in the fight against corruption and the rule of law more broadly. Yet we lack systematic evidence about whether they are effective at reducing corruption and, if so, why. I argue that prosecutors' use of autonomy and discretion in anti-corruption work benefits from physical presence in the communities they monitor because it helps them obtain information, exert formal and informal pressures, and instill in politicians a sense of being monitored. I test this theory through a causal event study of state prosecutors in Brazil, leveraging administrative data on their deployment and behavior across municipalities. I find that prosecutor presence causes increased anti-corruption action targeted at the local government. In response to prosecutor presence, local politicians hire more bureaucrats on the civil service rather than on temporary contracts -- a common vehicle for corruption in this setting. Consistent with prosecutor presence constraining malfeasance, I show that federal auditors find lower levels of corruption in municipalities where a prosecutor was recently deployed compared to those where a prosecutor would be deployed soon thereafter. I combine these quasi-experimental findings with insights from a survey of politicians and in-depth interviews with prosecutors. Together, the results demonstrate that physical presence can make prosecutors more effective at fighting corruption, and provide rare causal evidence of the impact of autonomous prosecutors on governance. 
 
 draft: false
 featured: false
@@ -34,7 +34,7 @@ author_notes: []
 doi: ""
 publication: ""
 projects: []
-date: 2025-02-07T11:54:00.000Z
+date: 2025-02-21T11:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
