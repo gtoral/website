@@ -13,7 +13,7 @@ featured: false
 tags: []
 slides: ""
 links:
-- name: Pre-print
+- name: Article
   url: http://www.guillermotoral.com/turnover.pdf
 - name: Publisher
   url: https://doi.org/10.1086/729961
