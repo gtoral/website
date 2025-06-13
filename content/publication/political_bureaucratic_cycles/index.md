@@ -6,7 +6,7 @@ authors:
   - admin
 publication_short: ""
 
-abstract: A vast literature on political cycles has shown that politicians often manipulate policy tools ahead of elections to win votes. Yet much less is known about the effects of policies designed to constrain these cycles. I argue that legal constraints on politicians' discretion over tools like spending, debt, transfers, or hires ahead of elections simply displace --and can even exacerbate-- such cycles. I demonstrate these unintended consequences using large, monthly panels of Brazilian municipalities to measure cycles in public employment. Federal laws ban hiring and firing bureaucrats in a 6-month period around elections. Consistent with politicians anticipating and strategically responding to these constraints, hiring decreases during this freeze period, but increases in the months before the ban. Cycles are not restricted to political advisers or to temporary employees -- they are present across all levels of the bureaucracy and in the civil service too. These patterns are even more pronounced in localities that experience a randomized anti-corruption audit. These findings highlight how the effectiveness of anti- corruption strategies can be undermined by politicians' strategic responses to them.
+abstract: Prior research has established that politicians often manipulate public resources before elections to win votes. Much less is known about the effects of policies designed to constrain such behavior. I argue that laws limiting politicians' discretion over policy tools during election periods ? a common policy approach ? displace (and may even intensify) these cycles. I present evidence to support this hypothesis using administrative data on municipalities in Brazil, where federal laws prohibit hiring bureaucrats around elections. Consistent with strategic adaptation, hiring surges before the freeze period, thereby creating anticipatory cycles. I exploit quasi-experimental variation in political incentives and anti-corruption enforcement to demonstrate that incentives and constraints shape these cycles. These findings reveal a paradox: rather than curbing political budget cycles, election-time constraints on government discretion displace them, potentially deepening their costs for fiscal discipline and electoral fairness. Successful anti-corruption policies must thus account for politicians' strategic adaptation to constraints.
 
 draft: false
 featured: false
@@ -34,9 +34,9 @@ url_source: ''
 url_video: ''
 author_notes: []
 doi: ""
-publication: "Working paper"
+publication: "Under review"
 projects: []
-date: 2023-01-22T23:54:00.000Z
+date: 2025-06-12T23:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
