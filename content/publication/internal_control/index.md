@@ -15,8 +15,6 @@ slides: ""
 links:
 - name: Paper
   url: http://www.guillermotoral.com/internal_control.pdf
-- name: Publisher
-  url: https://scioteca.caf.com/handle/123456789/2299
 url_pdf: ""
 url_dataset: ""
 url_project: ""
@@ -29,11 +27,11 @@ image:
 summary: ""
 author_notes: []
 doi: ""
-publication: "CAF working paper 2024/08"
+publication: "Previous version published as CAF working paper 2024/08"
 projects: []
 date: 2024-05-20T03:00:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-This paper was presented at Queen Mary University London (2025), CAF (Development Bank of Latin America, 2024).
+This paper was presented at Queen Mary University London (2025) and CAF (Development Bank of Latin America, 2024).

@@ -32,7 +32,7 @@ url_source: ''
 url_video: ''
 author_notes: []
 doi: ""
-publication: ""
+publication: "Previous version published as GLD Working Paper no. 71"
 projects: []
 date: 2025-02-21T11:54:00.000Z
 url_slides: ""
