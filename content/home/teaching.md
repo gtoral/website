@@ -12,14 +12,14 @@ design:
     image_darken: 0
 ---
 **[IE University](http://www.ie.edu)** (Madrid, Spain)
-* [Comparative Politics](syllabi/comparative_politics_syllabus.pdf) (undergraduate). Fall 2024, Spring 2024, Spring 2023. 
-* [Research Methods](syllabi/research_methods_syllabus.pdf) (undergraduate). Spring 2024. 
+* [Comparative Politics](syllabi/comparative_politics_syllabus.pdf) (undergraduate). Fall 2024, Spring 2024, Spring 2023. Teaching evaluation by students: 4.3 out of 5.
+* [Research Methods](syllabi/research_methods_syllabus.pdf) (undergraduate). Spring 2024. Teaching evaluation by students: 3.61 out of 5.
 * [Public Policy Analysis](syllabi/public_policy_analysis_syllabus.pdf) (undergraduate). Fall 2022. Teaching evaluation by students: 4.4 out of 5.
 
 **[Vanderbilt University](http://www.vanderbilt.edu)** (Nashville, TN, USA)
 * [Research Design](syllabi/research_design_syllabus.pdf) (graduate). Spring 2022. Teaching evaluation by students: 4.5 out of 5.
 * [Politics of Bureaucracies](syllabi/bureaucracies_syllabus.pdf) (graduate). Spring 2021. Teaching evaluation by students: 4.2 out of 5.
-* [Political Economy of Corruption](syllabi/corruption_syllabus.pdf) (undergraduate). Fall 2021 and Fall 2020. Teaching evaluation by students: 4.9 out of 5 (2020) and 4.4 out of 5 (2021).
+* [Political Economy of Corruption](syllabi/corruption_syllabus.pdf) (undergraduate). Fall 2021 and Fall 2020. Teaching evaluation by students: 4.7 out of 5
 * [Political Economy of Development](syllabi/development_syllabus.pdf) (undergraduate). Spring 2021. Teaching evaluation by students: 4.8 out of 5.
 
 
