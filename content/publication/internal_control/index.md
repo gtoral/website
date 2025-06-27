@@ -34,4 +34,4 @@ url_slides: ""
 url_poster: ""
 url_code: ""
 ---
-This paper was presented at Queen Mary University London (2025) and CAF (Development Bank of Latin America, 2024).
+This paper was presented at the European Political Science Association (2025, Madrid), Queen Mary University London (2025) and CAF (Development Bank of Latin America, 2024).
