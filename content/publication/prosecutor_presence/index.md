@@ -7,8 +7,8 @@ authors:
 publication_short: ""
 
 abstract: Prosecutors play a central role in enforcing the rule of law, including in combating corruption. Yet we lack systematic evidence on whether, and how, they succeed. I argue that prosecutors' anti-corruption work is more effective when they are physically present in the communities they oversee.
-Being on the ground improves prosecutors' access to information and ability to exert both formal and informal pressure on local officials, and heightens politicians' sense of oversight. I test this theory using a causal event study of the deployment of state prosecutors in Brazil, drawing on rich administrative data on their location and activity. I find that the arrival of a prosecutor to a locality increases anti-corruption enforcement (including investigations and extra-judicial agreements), raises civil service hiring in the local bureaucracy, and reduces corruption in municipal finances---all without lowering budget execution.
-I complement these quasi-experimental findings with insights from original surveys and in-depth interviews with both prosecutors and politicians. Together, the results offer rare causal evidence that autonomous prosecutors can enhance local governance---and that physical presence is a key driver of their effectiveness. 
+Being on the ground improves prosecutors' access to information and ability to exert both formal and informal pressure on local officials, and heightens politicians' sense of oversight. I test this theory using a causal event study of the deployment of state prosecutors in Brazil, drawing on rich administrative data on their location and activity. I find that the arrival of a prosecutor to a locality increases anti-corruption enforcement (including investigations and extra-judicial agreements), raises civil service hiring in the local bureaucracy, and reduces corruption in municipal finances -- all without lowering budget execution.
+I complement these quasi-experimental findings with insights from original surveys and in-depth interviews with both prosecutors and politicians. Together, the results offer rare causal evidence that autonomous prosecutors can enhance local governance -- and that physical presence is a key driver of their effectiveness. 
 
 draft: false
 featured: false
@@ -36,7 +36,7 @@ author_notes: []
 doi: ""
 publication: "Previous version published as GLD Working Paper no. 71"
 projects: []
-date: 2025-02-21T11:54:00.000Z
+date: 2025-10-06T11:54:00.000Z
 url_slides: ""
 url_poster: ""
 url_code: ""
