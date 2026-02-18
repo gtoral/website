@@ -54,4 +54,6 @@ My research agenda centers on relationships among state actors (politicians, bur
 
 Some of my work has been published in the *American Journal of Political Science*, the *Journal of Politics*, and the *Annual Review of Political Science*.
 
+I am currently on leave for government service as Senior Policy Advisor at the Office of the Prime Minister of Spain. While I continue some research activities, I am not available for advising or teaching until I return.
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
