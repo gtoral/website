@@ -34,7 +34,7 @@ url_source: ''
 url_video: ''
 author_notes: []
 doi: ""
-publication: "Invited to revise and resubmit, *American Journal of Political Science*."
+publication: "Invited to revise and resubmit, *American Journal of Political Science*"
 projects: []
 date: 2025-06-12T23:54:00.000Z
 url_slides: ""
