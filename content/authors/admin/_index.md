@@ -29,6 +29,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/guillermotoral/
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/guillermotoral.com
 
 organizations:
   - name: IE University
